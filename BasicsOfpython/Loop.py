@@ -4,6 +4,7 @@
 # WHILE LOOP
 
 
+# def is define 
 
 def loop() :
     
