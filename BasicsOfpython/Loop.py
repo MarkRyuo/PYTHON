@@ -11,8 +11,6 @@ def loop() :
     # In english for each num in the range from 1 to 9, print that num
     # i-isa isahin na ilalagay sa num yung mga number start in num 1 to num 9. num is the box at ilalagay duon ang mga number   
     for num in range(1, 10) :
-        if num == 4 :
-            break
         print(num)
 
 
