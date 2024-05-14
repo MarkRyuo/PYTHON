@@ -38,3 +38,6 @@ def animals_() :
     for i in range(1, 10) :
         for j in animals :
             print(j[i])
+
+
+animals_()
