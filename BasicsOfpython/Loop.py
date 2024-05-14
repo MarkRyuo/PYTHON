@@ -30,3 +30,4 @@ def _animals() :
         print(i)
 
 
+_animals()
