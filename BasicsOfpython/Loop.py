@@ -18,10 +18,13 @@ def loop() :
 
 # loop for dict,set and list
 
-animalxs = [
+animals = [
     "dog",
     "cat",
     "lion"
 ]
+
+def _animals() :
+    
 
 
