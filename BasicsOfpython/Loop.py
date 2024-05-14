@@ -36,7 +36,7 @@ def _animals() :
 def animals_() :
 
     for i in range(1, 10) :
-        print(i)
+        print(i[animals])
 
 
 animals_()
