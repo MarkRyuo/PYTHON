@@ -18,7 +18,7 @@ def loop() :
 
 # loop for dict,set and list
 
-animal = [
+animalxs = [
     "dog",
     "cat",
     "lion"
