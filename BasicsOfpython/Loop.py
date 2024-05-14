@@ -14,4 +14,8 @@ def loop() :
         print(num)
 
 
-loop()
+# loop()
+
+# loop for dict,set and list
+
+
