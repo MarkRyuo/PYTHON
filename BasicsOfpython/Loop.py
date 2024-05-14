@@ -18,4 +18,10 @@ def loop() :
 
 # loop for dict,set and list
 
+animal = [
+    "dog",
+    "cat",
+    "lion"
+]
+
 
