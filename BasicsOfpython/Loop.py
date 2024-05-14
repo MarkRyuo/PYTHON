@@ -26,5 +26,7 @@ animals = [
 
 def _animals() :
     
+    for i in animals :
+        print(i)
 
 
