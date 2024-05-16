@@ -17,3 +17,5 @@ while True :
 
     if _name == people :
         print(_name)
+    else :
+        
