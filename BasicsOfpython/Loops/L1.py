@@ -18,4 +18,4 @@ while True :
     if _name == people :
         print(_name)
     else :
-        
+        print("Who is that?")
