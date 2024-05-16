@@ -9,3 +9,5 @@ people = [
 
 for i in people :
     print(i)
+
+while True :
