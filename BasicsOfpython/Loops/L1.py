@@ -8,4 +8,4 @@ people = [
 ]
 
 for i in range(people) :
-    print[i]
+    print(i)
