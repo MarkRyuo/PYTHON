@@ -7,7 +7,8 @@ people = [
     "Mark"
 ]
 
-for i in people :
-    print(i)
 
 while True :
+
+    for i in people :
+        print(i)
