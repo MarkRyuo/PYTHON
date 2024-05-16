@@ -16,5 +16,6 @@ while True :
 
     if _name in people :
         print(_name)
+        break
     else :
         print("Who is that?")
