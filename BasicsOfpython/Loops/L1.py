@@ -7,5 +7,5 @@ people = [
     "Mark"
 ]
 
-for i in range(people) :
+for i in people :
     print(i)
