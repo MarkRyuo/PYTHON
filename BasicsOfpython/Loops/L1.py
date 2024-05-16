@@ -14,3 +14,6 @@ while True :
         print(i)
     
     _name = input("Who is your Favorite?: ")
+
+    if _name == people :
+        print(_name)
