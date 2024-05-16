@@ -6,3 +6,6 @@ people = [
     "Sopheya",
     "Mark"
 ]
+
+for i in range(people) :
+    
