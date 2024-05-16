@@ -14,7 +14,7 @@ while True :
     
     _name = input("Who is your Favorite?: ")
 
-    if _name == people[] :
+    if _name in people :
         print(_name)
     else :
         print("Who is that?")
