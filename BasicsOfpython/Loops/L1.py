@@ -15,7 +15,7 @@ while True :
     _name = input("Who is your Favorite?: ")
 
     if _name in people :
-        print(_name)
         break
     else :
         print("Who is that?")
+print(_name)
