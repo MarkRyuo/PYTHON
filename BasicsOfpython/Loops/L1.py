@@ -8,7 +8,7 @@ people = [
 ]
 
 for i in people :
-        print(i)
+    print(i)
 
 while True :
     
