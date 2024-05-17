@@ -6,7 +6,7 @@
 # check if the letter is in the word 
 
 
-greet = input("Enter your name") 
+greet = input("Enter your name: ") 
 
 def Greeting(greet) :
     
