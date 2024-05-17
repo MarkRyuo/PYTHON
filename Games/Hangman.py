@@ -28,6 +28,7 @@ def _List(list_of_word) :
 def main() :
 
     Greeting(greet)
+    _listOf = _List()
     
 
 main()    
