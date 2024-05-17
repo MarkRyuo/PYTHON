@@ -24,6 +24,7 @@ def _List() :
 
     for _list in list_of_word :
         print(_list)
+    return _list
 
 def main() :
 
