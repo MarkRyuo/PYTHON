@@ -1,5 +1,5 @@
 
-ip = input("Enter the target ip: ")
+ip = input("Enter the target ip address: ")
 
 def attack(ip) :
 
