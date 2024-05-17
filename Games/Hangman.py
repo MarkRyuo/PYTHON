@@ -6,21 +6,18 @@
 # check if the letter is in the word 
 
 
-greet = input("Enter your name: ") 
-
-def Greeting(greet) :
-    
-    print(f"Konichiwa {greet}")
-
-
-def _List() :
-
-    list_of_word = [
+list_of_word = [
         "Spaces",
         "Python",
         "Golive",
         "Prettier"
     ]
+
+greet = input("Enter your name: ") 
+
+def Greeting(greet) :
+    
+    print(f"Konichiwa {greet}")
 
 
 def main() :
