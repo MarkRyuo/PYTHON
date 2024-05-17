@@ -27,7 +27,7 @@ def _List(list_of_word) :
 def main() :
 
     Greeting(greet)
-    print("This is the list of words:")
+    print("This is the list of words: ")
     _List(list_of_word)
     
 
