@@ -27,7 +27,7 @@ def _List() :
 def main() :
 
     Greeting(greet)
-    _List()
+    _listOf = _List()
     print(f"This is the list: \n {_List} " )
 
 main()    
