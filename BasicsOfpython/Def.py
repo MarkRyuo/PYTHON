@@ -8,4 +8,4 @@ def Greeting() :
     print(f"Konichiwa {greet}")
 
 
-Greeting(great)
+Greeting(greet)
