@@ -3,9 +3,9 @@
 
 greet = input("Enter your name: ")
 
-def Greeting() :
+def Greeting(greet) :
 
     print(f"Konichiwa {greet}")
 
 
-Greeting(greet)
+Greeting(greet) 
