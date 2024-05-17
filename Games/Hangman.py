@@ -29,6 +29,5 @@ def main() :
 
     Greeting(greet)
     _listOf = _List(list_of_word)
-    print(f"This is the list: \n {_listOf} " )
 
 main()    
