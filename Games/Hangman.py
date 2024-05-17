@@ -23,7 +23,7 @@ def Greeting(greet) :
 def _List() :
 
     for _list in list_of_word :
-        print(f"This is the list: {_list}")
+        print(_list)
 
 def main() :
 
