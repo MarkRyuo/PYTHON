@@ -6,9 +6,9 @@
 # check if the letter is in the word 
 
 
-GREET = input("Enter your name: ") 
+greet = input("Enter your name: ") 
 
-def Greeting() :
+def Greeting(greet) :
     
     print(f"Konichiwa {greet}")
 
@@ -16,6 +16,6 @@ def Greeting() :
 
 def main() :
 
-    Greeting(GREET)
+    Greeting(greet)
 
 main()    
