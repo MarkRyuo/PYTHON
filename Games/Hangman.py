@@ -29,6 +29,6 @@ def _List() :
 def main() :
 
     Greeting(greet)
-    print(f"This is the list: \n {_List()} " )
+    print(f"This is the list: \n {_List} " )
 
 main()    
