@@ -28,6 +28,6 @@ def main() :
 
     Greeting(greet)
     _listOf = _List()
-    print(f"This is the list: \n {_List} " )
+    print(f"This is the list: \n {_listOf} " )
 
 main()    
