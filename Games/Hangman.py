@@ -13,6 +13,15 @@ def Greeting(greet) :
     print(f"Konichiwa {greet}")
 
 
+def _List() :
+
+    list_of_word = [
+        "Spaces",
+        "Python",
+        "Golive",
+        "Prettier"
+    ]
+
 
 def main() :
 
