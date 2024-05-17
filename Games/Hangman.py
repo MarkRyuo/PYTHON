@@ -15,8 +15,13 @@ def Greeting(greet) :
 
 def _List() :
 
-    for _list in list_of_word :
-        print(_list)
+    list_of_word = [
+        "Spaces",
+        "Python",
+        "Golive",
+        "Prettier"
+    ]
+    return list_of_word
 
 
 def main() :
