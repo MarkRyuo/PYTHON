@@ -11,4 +11,11 @@ greet = input("Enter your name")
 def Greeting(greet) :
     
     print(f"Konichiwa {greet}")
-    
+
+
+
+def main() :
+
+    Greeting()
+
+main()    
