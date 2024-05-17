@@ -19,9 +19,8 @@ def Greeting(greet) :
     
     print(f"Konichiwa {greet}")
 
-def _List() :
+def _List(list_of_word) :
 
-    return list_of_word
 
 
 def main() :
