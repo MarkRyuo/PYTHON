@@ -13,12 +13,17 @@ list_of_word = [
         "Prettier"
     ]
 
+
 greet = input("Enter your name: ") 
 
 def Greeting(greet) :
     
     print(f"Konichiwa {greet}")
 
+def _List() :
+
+    for _list in list_of_word :
+        print(_list)
 
 def main() :
 
