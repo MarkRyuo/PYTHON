@@ -23,7 +23,9 @@ def Greeting(greet) :
 def _List() :
 
     for _list in list_of_word :
-        return _list
+        print(_list)
+
+
 
 def main() :
 
