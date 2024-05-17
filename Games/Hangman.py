@@ -28,6 +28,7 @@ def _List() :
 def main() :
 
     Greeting(greet)
-    _List()
+    _ListOf = _List()
+    print(f"")
 
 main()    
