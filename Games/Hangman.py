@@ -10,5 +10,5 @@ greet = input("Enter your name")
 
 def Greeting(greet) :
     
-    print(f"Konichiwa {}")
+    print(f"Konichiwa {greet}")
     
