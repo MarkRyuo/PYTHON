@@ -28,5 +28,6 @@ def _List() :
 def main() :
 
     Greeting(greet)
+    _List()
 
 main()    
