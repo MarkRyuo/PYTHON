@@ -1,9 +1,9 @@
 
-ip = input("Enter the target Ip: ")
+ip = input("Enter the target ip: ")
 
 def attack(ip) :
 
-    print(f"Attacking ip...{ip}")
+    print(f"Attacking ip address...{ip}")
 
 
 attack(ip)
