@@ -6,13 +6,6 @@
 # check if the letter is in the word 
 
 
-list_of_word = [
-        "Spaces",
-        "Python",
-        "Golive",
-        "Prettier"
-    ]
-
 
 greet = input("Enter your name: ") 
 
@@ -29,6 +22,7 @@ def _List() :
 def main() :
 
     Greeting(greet)
+    _List()
     print(f"This is the list: \n {_List} " )
 
 main()    
