@@ -23,11 +23,11 @@ def _List(list_of_word) :
 
     for i in list_of_word :
         print(i)
-
+    return i 
 
 def main() :
 
     Greeting(greet)
-    print(f"This is the list {_List(list_of_word)}")
+    
 
 main()    
