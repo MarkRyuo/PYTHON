@@ -31,6 +31,6 @@ def main() :
 
     Greeting(greet)
     _ListOf = _List()
-    # print(f"This is the list: \n {_ListOf}")
+    print(f"This is the list: \n {_ListOf}")
 
 main()    
