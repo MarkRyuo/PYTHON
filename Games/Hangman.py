@@ -22,13 +22,12 @@ def Greeting(greet) :
 def _List(list_of_word) :
 
     for i in list_of_word :
-        print(i)
-    return i 
+        return i 
 
 def main() :
 
     Greeting(greet)
-    _listOf = _List()
+    _listOf = _List(list_of_word)
     
 
 main()    
