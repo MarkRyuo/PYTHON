@@ -16,6 +16,6 @@ def Greeting(greet) :
 
 def main() :
 
-    Greeting()
+    Greeting(greet)
 
 main()    
