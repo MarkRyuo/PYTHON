@@ -13,3 +13,6 @@ def fizzbuzz() :
             print("buzz")
         else :
             print(num)
+
+
+fizzbuzz()
