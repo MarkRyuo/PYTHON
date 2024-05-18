@@ -52,4 +52,6 @@ def greetings() :
             break 
         elif question_1 == "n":
             question_2 = input("Are you sure (y/n): ")
-            if question_2 == yes
+            if question_2 == "y":
+                break
+        else
