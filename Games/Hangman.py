@@ -62,3 +62,6 @@ def greetings() :
 def main() :
 
     greetings()
+
+
+main()
