@@ -50,6 +50,16 @@ def greetings() :
         question_1 = input("Are you playing (y/n): ")
         if question_1 :
             question_1.lower(question_1)
+            if question_1 == "y" :
+                break 
+            elif question_1 == "n":
+                question_2 = input("Are you sure (y/n): ")
+                if question_2 == "y":
+                    break
+                else:
+                    print(f"{question_1} not in choice")
+        else :
+            print("Please enter")
         
     
     return question_1
