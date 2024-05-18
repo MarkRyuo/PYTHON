@@ -58,3 +58,7 @@ def greetings() :
             print(f"{question_1} not in choice")
     
     return question_1
+
+def main() :
+
+    greetings()
