@@ -57,7 +57,7 @@ def greetings() :
             else:
                 print(f"{question_1} not in choice")
         else :
-            print("Please Enter")
+            print("Please enter")
     
     return question_1
 
