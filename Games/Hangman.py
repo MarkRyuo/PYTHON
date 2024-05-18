@@ -47,4 +47,5 @@ def greetings() :
     print("Welcome to hangman")
 
     while True :
-        question_1 = input("Are you playing (y/n) ")
+        question_1 = input("Are you playing (y/n) ").lower()
+        if question_1 == 
