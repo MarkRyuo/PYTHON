@@ -54,4 +54,5 @@ def greetings() :
             question_2 = input("Are you sure (y/n): ")
             if question_2 == "y":
                 break
-        else
+        else :
+            print(f"{question_1} not in choice")
