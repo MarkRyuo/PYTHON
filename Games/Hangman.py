@@ -48,4 +48,6 @@ def greetings() :
 
     while True :
         question_1 = input("Are you playing (y/n): ").lower()
-        if question_1 == 
+        if question_1 == "y" :
+            break 
+        elif question_1 == "n"
