@@ -48,17 +48,17 @@ def greetings() :
 
     while True :
         question_1 = input("Are you playing (y/n): ").lower()
-            if question_1 == "y" :
-                break 
-            elif question_1 == "n":
-                question_2 = input("Are you sure (y/n): ")
-                if question_2 == "y":
-                    print("Okay thank you for coming")
-                    break
-                else:
-                    print(f"{question_1} not in choice")
+        if question_1 == "y" :
+            break 
+        elif question_1 == "n":
+            question_2 = input("Are you sure (y/n): ")
+            if question_2 == "y":
+                print("Okay thank you for coming")
+                break
+            else:
+                print(f"{question_1} not in choice")
         else :
-            print("Please enter")
+            print("Please enter y or n")
         
     
     return question_1
