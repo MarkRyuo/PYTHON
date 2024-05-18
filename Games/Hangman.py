@@ -44,4 +44,5 @@
 
 def greetings() :
 
-    question_1 = input("Are you playing: ")
+    while True :
+        question_1 = input("Are you playing: ")
