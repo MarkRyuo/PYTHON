@@ -53,7 +53,7 @@ def greetings() :
             if question_1 == "y" :
                 break 
             elif question_1 == "n":
-                question_2 = input("Are you sure (y/n): ")
+                question_2 = input("Are you sure (y/n): ").lower()
                 if question_2 == "y":
                     break
                 elif question_2 == "n" :
