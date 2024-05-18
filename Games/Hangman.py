@@ -50,4 +50,6 @@ def greetings() :
         question_1 = input("Are you playing (y/n): ").lower()
         if question_1 == "y" :
             break 
-        elif question_1 == "n"
+        elif question_1 == "n":
+            question_2 = input("Are you sure: ")
+            if 
