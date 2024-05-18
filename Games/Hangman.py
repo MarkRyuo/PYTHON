@@ -55,7 +55,8 @@ def greetings() :
             if question_2 == "y":
                 print("Okay thank you for coming")
                 break
-            elif question_2 == "n"
+            elif question_2 == "n":
+                return question_2
             else:
                 print(f"{question_1} not in choice")
         else :
