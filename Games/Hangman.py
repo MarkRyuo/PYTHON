@@ -69,7 +69,7 @@ def greetings() :
 
 def main() :
 
-    grit = greetings()
+    greetings()
 
 
 main()
