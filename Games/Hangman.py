@@ -63,7 +63,7 @@ def greetings() :
             print("Please enter y or n")
         
     
-    # return question_1
+    return question_1
 
 def main() :
 
