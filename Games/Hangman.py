@@ -84,7 +84,7 @@ def main() :
         words = List_Of()
         question_3 = input("Guess the Letter: ")
         if question_3 in words :
-            print("Your winner")
+            print("You Win")
         else :
             print("You Lose")
 
