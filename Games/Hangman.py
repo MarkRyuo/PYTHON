@@ -82,7 +82,7 @@ def main() :
     decision = greetings() 
     if decision :
         words = List_Of()
-        question_3 = input("Guess the Letter: ")
+        question_3 = input("Guess the word (This is a users of the Internet): ")
         if question_3 in words :
             print("You Win")
         else :
