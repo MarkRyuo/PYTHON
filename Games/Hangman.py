@@ -85,6 +85,7 @@ def main() :
         question_3 = input("Guess the word (This is a users of the Internet): ")
         if question_3 in words :
             print("You Win")
+            print(f"The {question_3} in here in the list: {words}")
         else :
             print("You Lose")
 
