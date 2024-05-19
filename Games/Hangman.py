@@ -80,6 +80,6 @@ def List_Of():
 def main() :
 
     greetings()
-
+    List_Of()
 
 main()
