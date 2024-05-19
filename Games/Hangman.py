@@ -81,7 +81,7 @@ def main() :
 
     greetings()
     # words = List_Of()
-    print(f"This is the list: {words}")
+    # print(f"This is the list: {words}")
 
 main()
 
