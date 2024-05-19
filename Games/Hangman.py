@@ -71,7 +71,5 @@ def main() :
 
     grit = greetings()
 
-    print(f"{grit} this is the answer")
-
 
 main()
