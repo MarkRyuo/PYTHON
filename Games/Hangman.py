@@ -82,6 +82,7 @@ def main() :
     decision = greetings() 
     if decision :
         words = List_Of()
-        print(words) 
+        question_3 = input("Guess the Letter: ")
+        if question_3 in words :
 
 main()
