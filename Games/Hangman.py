@@ -79,9 +79,8 @@ def List_Of():
 
 def main() :
 
-    decision = greetings() 
-    if decision :
-        words = List_Of()
-        print(words) 
+    greetings()
+    words = List_Of()
+    print(f"This is the list: {words}")
 
 main()
