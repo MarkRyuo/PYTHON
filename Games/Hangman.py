@@ -65,9 +65,11 @@ def greetings() :
     
     return question_1
 
+
+
 def main() :
 
-    greetings()
+    grit = greetings()
 
 
 main()
