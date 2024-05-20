@@ -144,6 +144,7 @@ def main() :
 
     guess = input("Enter a word: ").lower
 
-    if guess in 
+    for guess in wordOf :
+
 
 main()
