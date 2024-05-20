@@ -8,7 +8,7 @@ words = [
 ]
 
 
-wordsOf = random.choice(words)
+wordsOf = random.choice(words) # Kukuha siya ng random word sa words list
 display_word = [] 
 
 for letter in wordsOf :
