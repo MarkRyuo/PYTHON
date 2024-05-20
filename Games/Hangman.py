@@ -136,5 +136,8 @@ def main() :
     if greet :
         wordss = List_Of()
         wordOf = random.choice(wordss)
+        
+        for letter in wordOf :
+            
 
 main()
