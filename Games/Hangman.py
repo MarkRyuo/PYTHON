@@ -1,4 +1,4 @@
-
+import random
 # create a greeting 
 # create a word list 
 # randomly choose a word in the list 
