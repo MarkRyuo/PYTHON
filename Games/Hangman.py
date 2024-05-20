@@ -134,9 +134,9 @@ def main() :
 
     greet = greetings()
     wordOf = random.choice(wordss)
+    display_word = []
     if greet :
         wordss = List_Of()
-        display_word = []
 
         for letter in wordOf :
             display_word += "_"
