@@ -11,3 +11,4 @@ words = [
 wordsOf = random.choice(words)
 display_word = [] 
 
+for letter in wordsOf
