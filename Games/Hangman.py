@@ -142,6 +142,8 @@ def main() :
             display_word += "_"
         print(display_word)
 
-    q = input("Enter a word: ")
+    guess = input("Enter a word: ")
+
+    if guess in 
 
 main()
