@@ -133,9 +133,9 @@ def List_Of():
 def main() :
 
     greet = greetings()
+    wordOf = random.choice(wordss)
     if greet :
         wordss = List_Of()
-        wordOf = random.choice(wordss)
         display_word = []
 
         for letter in wordOf :
@@ -148,6 +148,6 @@ def main() :
         if letter == guess:
             print("Right")
         else :
-            print()
+            print("Wrong")
 
 main()
