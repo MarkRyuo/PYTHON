@@ -144,7 +144,8 @@ def main() :
 
     guess = input("Enter a word: ").lower
 
-    for guess in wordOf :
-
+    for letter in wordOf :
+        if letter == guess:
+            
 
 main()
