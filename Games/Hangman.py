@@ -146,6 +146,8 @@ def main() :
 
     for letter in wordOf :
         if letter == guess:
-            
+            print("Right")
+        else :
+            print()
 
 main()
