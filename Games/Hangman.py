@@ -137,8 +137,9 @@ def main() :
         wordss = List_Of()
         wordOf = random.choice(wordss)
         display_word = []
-        
+
         for letter in wordOf :
-            
+            display_word += "_"
+        print(display_word)    
 
 main()
