@@ -142,7 +142,7 @@ def main() :
             display_word += "_"
         print(display_word)
 
-    guess = input("Enter a word: ")
+    guess = input("Enter a word: ").lower
 
     if guess in 
 
