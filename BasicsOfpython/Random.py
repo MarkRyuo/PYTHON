@@ -11,6 +11,6 @@ words = [
 wordsOf = random.choice(words) # Kukuha siya ng random word sa words list 
 display_word = [] # eto ang mag sisilbing lalagyan 
 
-for letter in wordsOf : 
+for letter in wordsOf : # for loop 
     display_word += "_" 
 print(display_word)
