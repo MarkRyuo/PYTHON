@@ -122,9 +122,9 @@ def greetings() :
 def List_Of():
 
     list_of_word = [
-        "Hacker",
-        "User",
-        "Admin"
+        "hacker",
+        "user",
+        "admin"
     ]
     return list_of_word
 
