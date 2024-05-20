@@ -133,6 +133,7 @@ def List_Of():
 def main() :
 
     greet = greetings()
-    if 
+    if greet :
+        
 
 main()
