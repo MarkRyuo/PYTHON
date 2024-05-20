@@ -8,4 +8,4 @@ words = [
 ]
 
 
-wordsOf = random.choice()
+wordsOf = random.choice(words)
