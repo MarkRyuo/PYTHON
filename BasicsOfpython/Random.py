@@ -9,3 +9,5 @@ words = [
 
 
 wordsOf = random.choice(words)
+display_word = [] 
+
