@@ -1,4 +1,10 @@
 import random 
 
 
-words = random.choice()
+words = [
+    "Hacker",
+    "User",
+]
+
+
+wordsOf = random.choice()
