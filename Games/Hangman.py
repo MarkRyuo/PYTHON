@@ -140,6 +140,8 @@ def main() :
 
         for letter in wordOf :
             display_word += "_"
-        print(display_word)    
+        print(display_word)
+
+    q = input("Enter a word: ")
 
 main()
