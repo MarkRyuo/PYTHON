@@ -135,6 +135,7 @@ def main() :
     greet = greetings()
     wordOf = random.choice(wordss)
     display_word = []
+    
     if greet :
         wordss = List_Of()
 
