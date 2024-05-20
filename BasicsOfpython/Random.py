@@ -4,6 +4,7 @@ import random
 words = [
     "Hacker",
     "User",
+    "Admin"
 ]
 
 
