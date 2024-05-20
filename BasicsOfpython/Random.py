@@ -13,4 +13,4 @@ display_word = []
 
 for letter in wordsOf :
     display_word += "_" 
-    print(display_word)
+print(display_word)
