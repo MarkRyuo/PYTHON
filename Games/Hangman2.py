@@ -39,7 +39,8 @@ def add_username() :
         if username in list_ban :
             print("This user is ban!")
             break
-        elif username != list_ban :
+        elif username != list_ban : # != ibig sabihin kung ang username ay wala sa listban 
+
 
 
 
