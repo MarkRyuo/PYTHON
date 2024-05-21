@@ -22,7 +22,7 @@ class Greeting() :
 
     def __init__(self, username, greet) :
         self.username = username
-        self.greet = greet 
+        
     
     def greetings(self):
 
