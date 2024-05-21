@@ -41,6 +41,8 @@ def add_username() :
             break
         elif username != list_ban : # ( != ) ibig sabihin kung ang username ay wala sa listban 
             print(f"Hello! {username} let's play the game")
+        else :
+            print(f"{username}")
 
 
 
