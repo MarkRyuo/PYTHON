@@ -20,7 +20,7 @@ list_ban = [
 
 class Greeting() :
 
-    def __init__(self, username, greet) :
+    def __init__(self, username) :
         self.username = username
         
     
