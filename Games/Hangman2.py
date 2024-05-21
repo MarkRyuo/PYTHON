@@ -53,4 +53,5 @@ def main() :
 
     username = add_username()
 
-    User = Greeting(user)
+    User = Greeting(username)
+    greet.User()
