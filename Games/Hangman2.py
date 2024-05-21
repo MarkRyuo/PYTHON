@@ -11,7 +11,7 @@ import random
 # List of name of ban for playing hangman
 
 list_ban = [
-        "Niyari",
+        "niyari",
         "Ryuo",
         "Samantya",
         "Mark",
