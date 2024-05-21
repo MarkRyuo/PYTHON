@@ -15,7 +15,7 @@ list_ban = [
         "ryuo",
         "samantya",
         "mark",
-        "Sopheya"
+        "sopheya"
     ]
 
 class Greeting() :
@@ -38,6 +38,7 @@ def add_username() :
 
         if username in list_ban :
             print("This user is ban!")
+            break
         
 
 
