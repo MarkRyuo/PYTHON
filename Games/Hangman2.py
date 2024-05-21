@@ -45,11 +45,11 @@ def add_username() :
         else :
             print(f"{username} is not contain a number")
         
-    
-
+    return username
 
 
 
 def main() :
 
-    add_username()
+    username = add_username()
+
