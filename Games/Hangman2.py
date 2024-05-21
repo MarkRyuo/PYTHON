@@ -29,6 +29,8 @@ def add_username() :
 
 # List of name of ban for playing hangman
 
+def List_of_ban
+
 
 
 def main() :
