@@ -39,6 +39,8 @@ def List_of_ban() :
         "Sopheya"
     ]
 
+    return list_ban
+
 
 
 def main() :
