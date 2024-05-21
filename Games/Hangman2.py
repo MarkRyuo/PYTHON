@@ -20,7 +20,9 @@ class Greeting() :
 
 def add_username() :
 
-    while T
+    while True:
+
+        username = input("Enter your username")
 
 
 
