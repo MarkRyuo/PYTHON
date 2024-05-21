@@ -42,12 +42,11 @@ def add_username() :
         elif username != list_ban : # ( != ) ibig sabihin kung ang username ay wala sa listban 
             print(f"Hello! {username} let's play the game")
         else :
-            print(f"{username}")
-
-
-
+            print(f"{username} is not contain a number")
 
 
 
 
 def main() :
+
+    add
