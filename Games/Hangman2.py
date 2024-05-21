@@ -52,7 +52,7 @@ def add_username() :
 
 def main() :
     username = add_username()
-    User = Greeting(username)
+    User = Greeting("username")
     User.greet()   
 
 
