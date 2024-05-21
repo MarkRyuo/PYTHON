@@ -37,7 +37,7 @@ def add_username() :
         username = input("Enter your username")
 
         if username in list_ban :
-            print(f"Your ban here")
+            print(f"This ")
 
 
 
