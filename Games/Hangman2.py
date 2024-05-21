@@ -24,6 +24,10 @@ def add_username() :
 
         username = input("Enter your username")
 
+        if 
+
+
+# List of name of ban for playing hangman
 
 
 
