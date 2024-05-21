@@ -15,5 +15,5 @@ class Greeting() :
     def greetings(self):
 
         print(
-            f"Hello! \n"
+            f"Hello! \n Welcome to Hangman"
             )
