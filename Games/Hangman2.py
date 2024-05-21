@@ -6,4 +6,6 @@
 # check if the letter is in the word 
 
 
-class greetings()
+class Greeting() :
+
+    def __init__(self, username, greet)
