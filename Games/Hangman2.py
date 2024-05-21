@@ -13,8 +13,8 @@ import random
 list_ban = [
         "niyari",
         "ryuo",
-        "Samantya",
-        "Mark",
+        "samantya",
+        "mark",
         "Sopheya"
     ]
 
