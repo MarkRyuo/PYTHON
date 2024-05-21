@@ -40,7 +40,8 @@ def add_username() :
             print("This user is ban!")
             exit()
         else :
-            print(f"{username} is not contain a number")
+            break
+        
         
     return username
 
