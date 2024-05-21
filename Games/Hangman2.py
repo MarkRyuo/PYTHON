@@ -8,4 +8,6 @@
 
 class Greeting() :
 
-    def __init__(self, username, greet)
+    def __init__(self, username, greet) :
+        self.username = username
+        
