@@ -24,7 +24,7 @@ class Greeting() :
         self.username = username
         
     
-    def greetings(self):
+    def greet(self):
 
         print(
             f"Hello! \n Welcome to Hangman {self.username}"
@@ -53,3 +53,4 @@ def main() :
 
     username = add_username()
 
+    User = Greeting(user)
