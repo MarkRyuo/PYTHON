@@ -18,4 +18,12 @@ class Greeting() :
             f"Hello! \n Welcome to Hangman {self.username}"
             )
 
-def 
+def add_username() :
+
+    while true 
+
+
+
+
+def main() :
+    
