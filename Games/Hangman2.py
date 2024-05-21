@@ -34,7 +34,7 @@ def add_username() :
 
     while True:
 
-        username = input("Enter your username").
+        username = input("Enter your username").lower
 
         if username in list_ban :
             print("This user is ban!")
