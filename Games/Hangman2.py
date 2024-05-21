@@ -1,4 +1,4 @@
-
+import random
 
 
 # create a greeting 
@@ -36,7 +36,8 @@ def add_username() :
 
         username = input("Enter your username")
 
-        if 
+        if username in list_ban :
+            print(f"Your ban here")
 
 
 
