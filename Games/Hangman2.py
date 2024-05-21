@@ -17,3 +17,5 @@ class Greeting() :
         print(
             f"Hello! \n Welcome to Hangman {self.username}"
             )
+
+def 
