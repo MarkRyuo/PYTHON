@@ -48,11 +48,11 @@ def add_username() :
     return username
 
 
-username = add_username()
-User = Greeting(username)
-greet.User()
 
 
 def main() :
+    username = add_username()
+    User = Greeting(username)
+    User.greet()   
 
 
