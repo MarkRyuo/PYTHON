@@ -29,7 +29,7 @@ def add_username() :
 
 # List of name of ban for playing hangman
 
-def List_of_ban() :
+
     
     list_ban = [
         "Niyari",
@@ -38,8 +38,6 @@ def List_of_ban() :
         "Mark",
         "Sopheya"
     ]
-
-    return list_ban
 
 
 
