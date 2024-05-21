@@ -31,7 +31,13 @@ def add_username() :
 
 def List_of_ban() :
     
-    list_ban =
+    list_ban = [
+        "Niyari",
+        "Ryuo",
+        "Samantya",
+        "Mark",
+        "Sopheya"
+    ]
 
 
 
