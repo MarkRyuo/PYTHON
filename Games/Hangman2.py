@@ -1,3 +1,6 @@
+
+
+
 # create a greeting 
 # create a word list 
 # randomly choose a word in the list 
@@ -5,6 +8,15 @@
 # bonus make the program take the input from the user and make it lowercase 
 # check if the letter is in the word 
 
+# List of name of ban for playing hangman
+
+list_ban = [
+        "Niyari",
+        "Ryuo",
+        "Samantya",
+        "Mark",
+        "Sopheya"
+    ]
 
 class Greeting() :
 
@@ -27,15 +39,6 @@ def add_username() :
         if 
 
 
-# List of name of ban for playing hangman
-
-list_ban = [
-        "Niyari",
-        "Ryuo",
-        "Samantya",
-        "Mark",
-        "Sopheya"
-    ]
 
 
 
