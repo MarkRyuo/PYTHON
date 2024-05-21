@@ -12,4 +12,8 @@ class Greeting() :
         self.username = username
         self.greet = greet 
     
-    def greetings(self)
+    def greetings(self):
+
+        print(
+            f"Hello! \n"
+            )
