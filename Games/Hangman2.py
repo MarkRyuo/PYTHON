@@ -67,7 +67,7 @@ def main() :
     if guess in word_random :
         print("You Won")
     else :
-        
+        print("Lose")
 
 main()
 
