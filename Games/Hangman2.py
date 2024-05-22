@@ -60,7 +60,7 @@ def main() :
 
         for leter in range(word_random) :
             empty_word += "_"
-        
+        print(empty_word)
 
 
 main()
