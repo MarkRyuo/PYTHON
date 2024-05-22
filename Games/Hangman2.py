@@ -49,7 +49,7 @@ def blank_words() :
     word_random = random.choice(list_ban)
     empty_word = []
 
-    for leter in range(list_ban) :
+    for leter in range(word_random) :
         empty_word += "_"
     
     return empty_word
