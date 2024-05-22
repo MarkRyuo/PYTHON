@@ -58,13 +58,13 @@ def main() :
 
     if User :
 
-        for leter in list_ban :
+        for letter in list_ban :
             empty_word += "_"
         print(empty_word)
 
     guess = input("Guess the words: ").lower()
 
-    if guess in word_random :
+    if guess in letter :
         print("You Won")
     else :
         print("You Lose")
