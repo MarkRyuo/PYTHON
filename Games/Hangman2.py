@@ -46,6 +46,7 @@ def add_username() :
 
 def blank_words() :
 
+    word_random
     empty_word = []
 
     for leter in range(list_ban) :
