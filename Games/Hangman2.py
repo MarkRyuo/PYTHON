@@ -64,5 +64,10 @@ def main() :
 
     guess = input("Guess the words: ").lower()
 
+    if guess in word_random :
+        print("You Won")
+    else :
+        
+
 main()
 
