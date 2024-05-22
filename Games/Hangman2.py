@@ -49,6 +49,7 @@ def block_words() :
     empty_word = []
 
     for leter in range(list_ban) :
+        empty_word += "_"
 
 
 
