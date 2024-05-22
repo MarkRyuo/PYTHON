@@ -50,6 +50,8 @@ def block_words() :
 
     for leter in range(list_ban) :
         empty_word += "_"
+    
+    return empty_word
 
 
 
