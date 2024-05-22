@@ -64,7 +64,8 @@ def main() :
 
     guess = input("Guess the words: ").lower
 
-    if guess in letter :
+    for letter in word_random:
+        
         print("You Won")
     else :
         print("You Lose")
