@@ -60,7 +60,7 @@ def main() :
     username = add_username()
     User = Greeting(username)
     User.greet()
-    block
+    blank_words()
 
 
 main()
