@@ -27,7 +27,7 @@ class Greeting() :
     def greet(self):
 
         print(
-            f"Hello! \nWelcome to Hangman {self.username}"
+            f"Hello! \nWelcome to Hangman user {self.username}"
             )
 
 def add_username() :
@@ -62,6 +62,7 @@ def main() :
             empty_word += "_"
         print(empty_word)
 
+    guess = input("Guess the words: ").lower()
 
 main()
 
