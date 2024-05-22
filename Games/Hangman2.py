@@ -65,10 +65,10 @@ def main() :
     guess = input("Guess the words: ").lower
 
     for letter in word_random:
-        
-        print("You Won")
-    else :
-        print("You Lose")
+        if letter == guess :
+            print("You Won")
+        else :
+            print("You Lose")
 
 main()
 
