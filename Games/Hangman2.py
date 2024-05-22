@@ -44,7 +44,10 @@ def add_username() :
         
     return username
 
-def blank_words() :
+
+
+
+def main() :
 
     username = add_username()
     User = Greeting(username)
@@ -53,16 +56,7 @@ def blank_words() :
     word_random = random.choice(list_ban)
     empty_word = []
 
-    for leter in range(word_random) :
-        empty_word += "_"
     
-    return empty_word
-
-
-
-def main() :
-
-    blank_words()
         
 
 
