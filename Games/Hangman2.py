@@ -46,6 +46,10 @@ def add_username() :
 
 def blank_words() :
 
+    username = add_username()
+    User = Greeting(username)
+    User.greet()
+
     word_random = random.choice(list_ban)
     empty_word = []
 
@@ -58,7 +62,7 @@ def blank_words() :
 
 def main() :
 
-    blank_words)
+    blank_words()
         
 
 
