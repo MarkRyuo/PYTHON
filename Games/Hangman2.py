@@ -38,11 +38,14 @@ def add_username() :
 
         if username in list_ban :
             print("This user is ban!")
-            exit()
+            exit() 
         else :
             break
         
     return username
+
+def block_words() :
+    
 
 
 
