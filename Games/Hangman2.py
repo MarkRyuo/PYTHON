@@ -52,6 +52,7 @@ def blank_words() :
     for leter in range(word_random) :
         empty_word += "_"
     
+    return empty_word
 
 
 
