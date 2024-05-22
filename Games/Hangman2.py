@@ -46,7 +46,10 @@ def add_username() :
 
 def block_words() :
 
+    empty_word = []
+
     for leter in range(list_ban)
+
 
 
 
