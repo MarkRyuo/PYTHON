@@ -58,7 +58,7 @@ def main() :
 
     if User :
 
-        for leter in range(word_random) :
+        for leter in list_ban :
             empty_word += "_"
         print(empty_word)
 
