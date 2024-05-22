@@ -58,10 +58,8 @@ def blank_words() :
 
 def main() :
 
-    username = add_username()
-    User = Greeting(username)
-    User.greet()
-    blank_words()
+    blank_words)
+        
 
 
 main()
