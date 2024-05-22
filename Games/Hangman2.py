@@ -56,7 +56,10 @@ def main() :
     word_random = random.choice(list_ban)
     empty_word = []
 
-    
+    if User :
+
+        for leter in range(word_random) :
+            empty_word += "_"
         
 
 
