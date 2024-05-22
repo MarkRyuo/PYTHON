@@ -44,7 +44,7 @@ def add_username() :
         
     return username
 
-def block_words() :
+def blank_words() :
 
     empty_word = []
 
@@ -55,13 +55,12 @@ def block_words() :
 
 
 
-
-
 def main() :
 
     username = add_username()
     User = Greeting(username)
-    User.greet()   
+    User.greet()
+    block
 
 
 main()
