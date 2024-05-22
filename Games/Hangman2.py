@@ -45,7 +45,8 @@ def add_username() :
     return username
 
 def block_words() :
-    
+
+    for leter in range(list_ban)
 
 
 
