@@ -146,6 +146,7 @@ def main() :
     guess = input("Enter a Letter: ").lower()
 
     for position in range(len(wordOf)) :
+        letter = wordOf[position]
         if letter == guess:
             print("Right")
         else :
