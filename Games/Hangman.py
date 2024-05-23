@@ -165,7 +165,7 @@ main()
 
 
 
-# create a greeting 
+# Todo create a greeting 
 # create a word list 
 # randomly choose a word in the list 
 # ask the user to guess a letter 
