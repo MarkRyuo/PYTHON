@@ -145,7 +145,7 @@ def main() :
 
     guess = input("Enter a Letter: ").lower()
 
-    for letter in wordOf :
+    for position in range(len(wordOf)) :
         if letter == guess:
             print("Right")
         else :
@@ -159,3 +159,6 @@ main()
 # Loop through each of the letters in the chosen word 
 # if the letter is in the word replace the "_" with the letter 
 # it should look like this "_", "d", "_", "i", "_"
+
+
+
