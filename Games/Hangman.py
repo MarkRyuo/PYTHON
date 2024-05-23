@@ -145,11 +145,14 @@ def main() :
 
     guess = input("Enter a Letter: ").lower()
 
-    for position in range(len(wordOf)) :
-        letter = wordOf[position]
-        if letter == guess:
-            display_word[position] = letter
-    print(display_word)
+    game_over = False 
+
+    while not game_over :
+        for position in range(len(wordOf)) :
+            letter = wordOf[position]
+            if letter == guess:
+                display_word[position] = letter
+        print(display_word)
 
 main()
 
@@ -163,5 +166,7 @@ main()
 
 # Use a while loop so your game keeps going 
 # until the word has been guessed 
+
+
 
 
