@@ -148,7 +148,7 @@ def main() :
     for position in range(len(wordOf)) :
         letter = wordOf[position]
         if letter == guess:
-            print("Right")
+            display_word[position] = letter
         else :
             print("Wrong")
 
