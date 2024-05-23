@@ -143,7 +143,7 @@ def main() :
             display_word += "_"
         print(display_word)
 
-    guess = input("Enter a word: ").lower
+    guess = input("Enter a word: ").lower()
 
     for letter in wordOf :
         if letter == guess:
