@@ -161,4 +161,7 @@ main()
 # it should look like this "_", "d", "_", "i", "_"
 
 
+# Use a while loop so your game keeps going 
+# until the word has been guessed 
+
 
