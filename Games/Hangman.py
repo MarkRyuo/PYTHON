@@ -143,11 +143,12 @@ def main() :
             display_word += "_"
         print(display_word)
 
-    guess = input("Enter a Letter: ").lower()
 
     game_over = False 
 
     while not game_over :
+        
+        guess = input("Enter a Letter: ").lower()
         for position in range(len(wordOf)) :
             letter = wordOf[position]
             if letter == guess:
