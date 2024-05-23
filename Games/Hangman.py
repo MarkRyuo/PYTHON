@@ -169,8 +169,8 @@ main()
 # Todo create a word list 
 # Todo randomly choose a word in the list 
 # Todo ask the user to guess a letter 
-# bonus make the program take the input from the user and make it lowercase 
-# check if the letter is in the word 
+# Todo bonus make the program take the input from the user and make it lowercase 
+# Todo check if the letter is in the word 
 
 
 # Loop through each of the letters in the chosen word 
