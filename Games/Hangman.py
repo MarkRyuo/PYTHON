@@ -159,11 +159,18 @@ def main() :
         if "_" not in display_word :
             print("You win")
             game_over = True
-            
+
 
 main()
 
 
+
+# create a greeting 
+# create a word list 
+# randomly choose a word in the list 
+# ask the user to guess a letter 
+# bonus make the program take the input from the user and make it lowercase 
+# check if the letter is in the word 
 
 
 # Loop through each of the letters in the chosen word 
