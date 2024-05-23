@@ -173,13 +173,13 @@ main()
 # Todo check if the letter is in the word 
 
 
-# Loop through each of the letters in the chosen word 
-# if the letter is in the word replace the "_" with the letter 
-# it should look like this "_", "d", "_", "i", "_"
+# Todo Loop through each of the letters in the chosen word 
+# Todo if the letter is in the word replace the "_" with the letter 
+# Todo it should look like this "_", "d", "_", "i", "_"
 
 
-# Use a while loop so your game keeps going 
-# until the word has been guessed 
+# Todo Use a while loop so your game keeps going 
+# Todo until the word has been guessed 
 
 
 
