@@ -158,6 +158,7 @@ def main() :
 
         if "_" not in display_word :
             print("You win")
+            break
 
 main()
 
