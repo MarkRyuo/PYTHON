@@ -133,9 +133,9 @@ def List_Of():
 def main() :
 
     greet = greetings()
+    wordss = List_Of()
     wordOf = random.choice(wordss)
     display_word = []
-    wordss = List_Of()
     
     if greet :
 
