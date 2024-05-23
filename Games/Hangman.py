@@ -151,6 +151,7 @@ def main() :
             display_word[position] = letter
         else :
             print("Wrong")
+    print(display_word)
 
 main()
 
