@@ -147,13 +147,16 @@ def main() :
     game_over = False 
 
     while not game_over :
-        
+
         guess = input("Enter a Letter: ").lower()
         for position in range(len(wordOf)) :
             letter = wordOf[position]
             if letter == guess:
                 display_word[position] = letter
         print(display_word)
+
+        if "_" not in display_word :
+            print("You win")
 
 main()
 
