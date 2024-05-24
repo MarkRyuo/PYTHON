@@ -22,7 +22,7 @@ GREETING = person.Greeting()
 def Greeting():
     
     print("Welcome to Hangman Challange ")
-    
+
     while True :
 
-        ask_Username = input("Enter your username")
+        ask_Username = input("Enter your username").lower()
