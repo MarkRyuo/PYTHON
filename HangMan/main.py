@@ -1,4 +1,5 @@
 import person
+from Ban import list_of_ban
 
 # Todo create a greeting 
 # Todo create a word list 
