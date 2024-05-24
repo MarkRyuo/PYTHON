@@ -18,7 +18,7 @@ from Ban import list_of_ban
 # Todo until the word has been guessed 
 
 
-GREETING = person.Greeting()
+# GREETING = person.Greeting()
 
 def Greeting():
     
@@ -28,7 +28,7 @@ def Greeting():
 
     while _username :
 
-        ask_Username = input("Enter your username").lower()
+        ask_Username = input("Enter your username: ").lower()
         # ! Check if ask_Username is in the ban name 
 
         if ask_Username in list_of_ban :
@@ -41,3 +41,8 @@ def Greeting():
 def main() :
 
     Greeting()
+
+
+
+
+main()
