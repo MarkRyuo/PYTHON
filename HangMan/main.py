@@ -19,10 +19,9 @@ import person
 
 GREETING = person.Greeting()
 
-
 def Greeting():
-
-    print(GREETING)
+    
+    print("Welcome to Hangman Challange ")
     while True :
 
         ask_Username = input("Enter your username")
