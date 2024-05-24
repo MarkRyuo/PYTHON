@@ -17,7 +17,7 @@ import person
 # Todo until the word has been guessed 
 
 
-GREETING = person.Greeting
+GREETING = person.Greeting()
 
 
 def Greeting():
