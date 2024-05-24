@@ -28,3 +28,6 @@ def Greeting():
 
         ask_Username = input("Enter your username").lower()
         # ! Check if ask_Username is in the ban name 
+
+        if ask_Username in list_of_ban :
+            print(f"Your ban here user {ask_Username}")
