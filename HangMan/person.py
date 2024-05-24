@@ -10,3 +10,9 @@ class Greeting():
         print(
             f"Hi User {self.name}"
             )
+        
+
+
+
+
+greet = Greeting(username)

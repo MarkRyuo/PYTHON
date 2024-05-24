@@ -34,6 +34,8 @@ def Greeting():
         if ask_Username in list_of_ban :
             print(f"Your ban here user {ask_Username}")
             _username = False
+        elif ask_Username :
+            speak1()
 
         return ask_Username
 
