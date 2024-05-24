@@ -17,3 +17,12 @@ import person
 # Todo until the word has been guessed 
 
 
+GREETING = person.Greeting
+
+
+def Greeting():
+
+    while True :
+
+
+        ask_Username = input("Enter your username")
