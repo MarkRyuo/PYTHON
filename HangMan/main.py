@@ -27,3 +27,4 @@ def Greeting():
     while True :
 
         ask_Username = input("Enter your username").lower()
+        # ! Check if ask_Username is in the ban name 
