@@ -37,7 +37,7 @@ def Greeting():
             _username = False
         elif ask_Username :
             break
-        else :
+        else : 
             print("Unsupported Username")
 
         return ask_Username
