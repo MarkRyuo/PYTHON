@@ -40,4 +40,4 @@ def Greeting():
 
 def main() :
 
-    Greeting)
+    Greeting()
