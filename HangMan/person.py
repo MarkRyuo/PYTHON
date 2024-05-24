@@ -8,5 +8,5 @@ class Greeting():
     
     def speak1(self) :
         print(
-            f"Welcome to Hangman "
+            f"Hi User {self.name}"
             )
