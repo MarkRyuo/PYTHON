@@ -31,3 +31,4 @@ def Greeting():
 
         if ask_Username in list_of_ban :
             print(f"Your ban here user {ask_Username}")
+            
