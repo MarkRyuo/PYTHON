@@ -12,7 +12,3 @@ class Greeting():
             )
         
 
-
-
-
-greet = Greeting(username)

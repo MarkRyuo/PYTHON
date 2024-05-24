@@ -20,6 +20,7 @@ from Ban import list_of_ban
 
 # GREETING = person.Greeting()
 
+
 def Greeting():
     
     print("Welcome to Hangman Challange ")
@@ -35,7 +36,9 @@ def Greeting():
             print(f"Your ban here user {ask_Username}")
             _username = False
         elif ask_Username :
-            speak1()
+            break
+        else :
+            print("Unsupported Username")
 
         return ask_Username
 
