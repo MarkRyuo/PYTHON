@@ -22,7 +22,7 @@ GREETING = person.Greeting()
 
 def Greeting():
 
+    print(GREETING)
     while True :
-
 
         ask_Username = input("Enter your username")
