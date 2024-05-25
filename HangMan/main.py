@@ -1,4 +1,4 @@
-import person
+from 
 from Ban import list_of_ban
 
 # Todo create a greeting 
