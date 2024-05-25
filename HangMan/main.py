@@ -35,7 +35,8 @@ def Greeting():
         if ask_Username in list_of_ban :
             print(f"Your ban here user {ask_Username}")
             _username = False
-        elif ask_Username :
+        elif ask_Username.isdigit :
+            print()
             # pass # Todo Gumawa ng condition kapag number lang nilagay ay huwag ito papasukin 
         elif ask_Username :
             break
