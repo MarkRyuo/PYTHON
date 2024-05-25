@@ -49,7 +49,9 @@ def Greeting():
 
 def main() :
 
-    Greeting()
+    greet = Greeting()
+    
+
 
 
 
