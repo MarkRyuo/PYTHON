@@ -37,6 +37,7 @@ def Greeting():
             _username = False
         elif ask_Username.isdigit :
             print("Number?")
+            continue
             # pass # Todo Gumawa ng condition kapag number lang nilagay ay huwag ito papasukin 
         elif ask_Username :
             break
