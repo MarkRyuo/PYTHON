@@ -51,7 +51,7 @@ def main() :
 
     greet = Greeting()
     
-    User = 
+    User = GREETING(greet)
 
 
 
