@@ -40,11 +40,11 @@ def Greeting():
             print(f"Your ban here user {ask_Username}")
             _username = False
         elif ask_Username :
-            break
+            return ask_Username
+            # break
         else : 
             print("Unsupported Username")
 
-        return ask_Username
 
 
 def main() :
