@@ -18,7 +18,7 @@ from Ban import list_of_ban
 # Todo until the word has been guessed 
 
 
-# GREETING = person.Greeting()
+GREETING = person.Greeting()
 
 
 def Greeting():
@@ -51,6 +51,7 @@ def main() :
 
     greet = Greeting()
     
+    User = 
 
 
 
