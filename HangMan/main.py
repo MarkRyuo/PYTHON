@@ -51,7 +51,7 @@ def main() :
     greet = Greeting()
     
     User = Greeting_(greet)
-    User.speak1()
+    User.speak1() # ! Not showing the username fix it 
 
 
 
