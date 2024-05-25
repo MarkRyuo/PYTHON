@@ -32,13 +32,13 @@ def Greeting():
         ask_Username = input("Enter your username: ").lower()
         # ! Check if ask_Username is in the ban name 
 
-        if ask_Username in list_of_ban :
-            print(f"Your ban here user {ask_Username}")
-            _username = False
-        elif ask_Username.isdigit :
+        if ask_Username.isdigit :
             print("Number?")
             exit()
             # pass # Todo Gumawa ng condition kapag number lang nilagay ay huwag ito papasukin 
+        elif ask_Username in list_of_ban :
+            print(f"Your ban here user {ask_Username}")
+            _username = False
         elif ask_Username :
             break
         else : 
