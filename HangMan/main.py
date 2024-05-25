@@ -50,7 +50,7 @@ def main() :
 
     greet = Greeting()
     
-    User = Greeting(greet)
+    User = Greeting_(greet)
     User.Speek1()
 
 
