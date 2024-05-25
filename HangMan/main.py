@@ -1,4 +1,4 @@
-from person import Greeting
+from person import Greeting_
 from Ban import list_of_ban
 
 # Todo create a greeting 
