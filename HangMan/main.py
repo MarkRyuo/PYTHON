@@ -36,9 +36,9 @@ def Greeting():
             print(f"Your ban here user {ask_Username}")
             _username = False
         elif ask_Username :
-            break
-        elif ask_Username :
             pass # Todo Gumawa ng condition kapag number lang nilagay ay huwag ito papasukin 
+        elif ask_Username :
+            break
         else : 
             print("Unsupported Username")
 
