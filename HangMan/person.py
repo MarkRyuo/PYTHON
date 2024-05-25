@@ -1,7 +1,7 @@
 # Greeting 
 
 
-class Greeting():
+class Greeting_():
 
     def __init__(self, name) :
         self.name = name 
