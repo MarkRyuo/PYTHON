@@ -17,7 +17,11 @@ from Ban import list_of_ban
 # Todo Use a while loop so your game keeps going 
 # Todo until the word has been guessed 
 
-
+# Todo - 
+# ! - Fix it 
+# ? - Question
+# // - Done 
+#
 
 
 
