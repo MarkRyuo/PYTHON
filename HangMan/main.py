@@ -43,7 +43,7 @@ def Greeting():
         else : 
             print("Unsupported Username")
 
-        return ask_Username
+        return ask_Username, _username
 
 
 def main() :
