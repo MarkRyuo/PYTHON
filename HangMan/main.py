@@ -24,9 +24,9 @@ def Greeting():
     
     print("Welcome to Hangman Challange ")
 
-    # _username = True
+    _username = True
 
-    while True :
+    while _username :
 
         ask_Username = input("Enter your username: ").lower()
         # ! Check if ask_Username is in the ban name 
