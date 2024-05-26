@@ -46,18 +46,18 @@ def Greeting():
     return ask_Username
 
 
-def Play_Hangman
-
-
-def main() :
+def Play_Hangman() :
 
     greet = Greeting()
     
     User = Greeting_(greet)
     User.speak1() # ! Not showing the username fix it 
+    
 
 
+def main() :
 
+    Play_Hangman()
 
 
 
