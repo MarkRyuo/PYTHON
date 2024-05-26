@@ -60,7 +60,7 @@ def Play_Hangman() :
 
     if User :
 
-        word 
+        word = random.choice(list_of_word)
         guees = input("Guees the letter: ")
     
 
