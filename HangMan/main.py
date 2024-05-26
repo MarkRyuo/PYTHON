@@ -20,6 +20,7 @@ from Ban import list_of_ban
 
 
 
+
 def Greeting():
     
     print("Welcome to Hangman Challange ")
@@ -51,7 +52,7 @@ def Play_Hangman() :
     greet = Greeting()
     
     User = Greeting_(greet)
-    User.speak1() # ? Not showing the username fix it 
+    User.speak1() # // ! Not showing the username fix it 
     
 
 
