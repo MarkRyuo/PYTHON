@@ -1,5 +1,6 @@
 from person import Greeting_
 from Ban import list_of_ban
+from person import list_of_word
 
 # Todo create a greeting 
 # Todo create a word list 
@@ -59,7 +60,8 @@ def Play_Hangman() :
 
     if User :
 
-        
+        word 
+        guees = input("Guees the letter: ")
     
 
 
