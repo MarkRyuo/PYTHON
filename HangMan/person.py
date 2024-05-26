@@ -12,6 +12,6 @@ class Greeting_():
             )
     
     def speak2(self) :
-        
+        print("Do you want to play? ")
         
 
