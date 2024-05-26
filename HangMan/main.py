@@ -21,7 +21,7 @@ from Ban import list_of_ban
 # ! - Fix it 
 # ? - Question
 # // - Done 
-# * - 
+# * - Comment 
 
 
 
