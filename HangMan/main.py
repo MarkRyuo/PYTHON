@@ -42,8 +42,11 @@ def Greeting():
             break
         else : 
             print("Unsupported Username")
-            
+
     return ask_Username
+
+
+def Play_Hangman
 
 
 def main() :
