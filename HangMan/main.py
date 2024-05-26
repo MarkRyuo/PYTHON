@@ -59,17 +59,17 @@ def Play_Hangman() :
     User = Greeting_(greet)
     User.speak1() # // ! Not showing the username fix it 
 
-    if User :
+    
+    word = random.choice(list_of_word)
+    guees = input("Guees the letter: ")
 
-        word = random.choice(list_of_word)
-        guees = input("Guees the letter: ")
+    empty_word = []
 
-        empty_word = []
-
-        for letter in word :
-            empty_word += "_" 
-            
+    for letter in word :
+        empty_word += "_" 
+                
     print(empty_word)
+
 
 
 
