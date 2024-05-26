@@ -8,7 +8,7 @@ class Greeting_():
 
     def speak1(self) :
         print(
-            f"Hi User {self.name}"
+            f"Hi User {self.name}" # ! Create a better chat
             )
         
 
