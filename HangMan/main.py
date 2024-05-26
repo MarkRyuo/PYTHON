@@ -65,8 +65,9 @@ def Play_Hangman() :
         guees = input("Guees the letter: ")
 
         empty_word = []
-        
-        for letter in word 
+
+        for letter in word :
+            empty_word += "_" 
 
 
 
