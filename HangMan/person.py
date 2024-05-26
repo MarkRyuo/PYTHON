@@ -15,3 +15,7 @@ class Greeting_():
         print("Do you want to play? ")
         
 
+
+list_of_word = [
+    
+]
