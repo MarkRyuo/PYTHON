@@ -17,5 +17,7 @@ class Greeting_():
 
 
 list_of_word = [
-    
+    "USER",
+    "ADMIN",
+    "HACKER"
 ]
