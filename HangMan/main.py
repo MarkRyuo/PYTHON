@@ -38,7 +38,6 @@ def Greeting():
 
         if ask_Username.isdigit():
             print("Number? Unsupported Username")
-            # continue
             # Todo Gumawa ng condition kapag number lang nilagay ay huwag ito papasukin 
         elif ask_Username in list_of_ban :
             print(f"Your ban here user {ask_Username}")
