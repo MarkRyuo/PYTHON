@@ -64,7 +64,9 @@ def Play_Hangman() :
         word = random.choice(list_of_word)
         guees = input("Guees the letter: ")
 
-        for 
+        empty_word = []
+        
+        for letter in word 
 
 
 
