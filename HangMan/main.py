@@ -1,6 +1,7 @@
 from person import Greeting_
 from Ban import list_of_ban
 from person import list_of_word
+import random
 
 # Todo create a greeting 
 # Todo create a word list 
