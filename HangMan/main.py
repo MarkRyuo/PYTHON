@@ -57,6 +57,8 @@ def Play_Hangman() :
     
     User = Greeting_(greet)
     User.speak1() # // ! Not showing the username fix it 
+
+    
     
 
 

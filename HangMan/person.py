@@ -10,5 +10,8 @@ class Greeting_():
         print(
             f"Hi User {self.name}" # ! Create a better chat
             )
+    
+    def speak2(self) :
+        
         
 
