@@ -74,11 +74,11 @@ def Play_Hangman() :
 
 
 
-        for letter in word :
-            if letter == guees:
-                print("Correct")
-            else :
-                print("Wrong")
+    for letter in word :
+        if letter == guees:
+            print("Correct")
+        else :
+            print("Wrong")
     
 
 
