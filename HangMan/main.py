@@ -80,7 +80,7 @@ def Play_Hangman() :
             letter = word[position]
             if letter == guees :
                 empty_word[position] = letter 
-            
+        print(empty_word)
             
 
     
