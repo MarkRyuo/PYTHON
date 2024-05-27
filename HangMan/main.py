@@ -87,8 +87,6 @@ def Play_Hangman() :
             game_over = True
             
 
-    
-    
 
 
 def main() :
