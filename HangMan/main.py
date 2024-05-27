@@ -81,6 +81,10 @@ def Play_Hangman() :
             if letter == guees :
                 empty_word[position] = letter 
         print(empty_word)
+
+        if "_" not in empty_word :
+            print("You Win")
+        else :
             
 
     
