@@ -64,7 +64,7 @@ def Play_Hangman() :
 
     empty_word = []
 
-    for letter in word :
+    for position in word :
         empty_word += "_" 
                 
     print(empty_word)
