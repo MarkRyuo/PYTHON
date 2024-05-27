@@ -76,7 +76,9 @@ def Play_Hangman() :
 
         guees = input("Enter the letter: ") 
         
-        for position in range(len(word))
+        for position in range(len(word)) :
+            letter = word[position]
+            
             
 
     
