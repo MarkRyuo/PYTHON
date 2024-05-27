@@ -79,6 +79,8 @@ def Play_Hangman() :
             print("Correct")
         else :
             print("Wrong")
+
+    for "_" in guees : 
     
 
 
