@@ -80,7 +80,6 @@ def Play_Hangman() :
         else :
             print("Wrong")
 
-    for "_" in guees : 
     
 
 
