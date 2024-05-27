@@ -85,6 +85,7 @@ def Play_Hangman() :
         if "_" not in empty_word :
             print("You Win")
         else :
+            print("You Lose")
             
 
     
