@@ -74,7 +74,7 @@ def Play_Hangman() :
 
     while not game_over :
 
-        guees = input("Enter the letter: ") 
+        guees = input("Enter the letter: ").lower()
         
         for position in range(len(word)) :
             letter = word[position]
