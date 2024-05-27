@@ -78,7 +78,8 @@ def Play_Hangman() :
         
         for position in range(len(word)) :
             letter = word[position]
-            
+            if letter == guees :
+                
             
 
     
