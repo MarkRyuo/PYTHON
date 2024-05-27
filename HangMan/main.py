@@ -36,7 +36,7 @@ def Greeting():
     while _username :
 
         ask_Username = input("Enter your username: ").lower()
-        # ! Check if ask_Username is in the ban name 
+        # * Check if ask_Username is in the ban name 
 
         if ask_Username.isdigit():
             print("Number? Unsupported Username")
