@@ -74,7 +74,7 @@ def Play_Hangman() :
     guees = input("Guees the letter: ")
 
     for position in word :
-        if letter == guees:
+        if position == guees:
             print("Correct")
         else :
             print("Wrong")
