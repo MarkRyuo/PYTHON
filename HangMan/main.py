@@ -70,14 +70,10 @@ def Play_Hangman() :
     print(empty_word)
 
 
+    game_over = False 
 
-    guees = input("Guees the letter: ")
-
-    for position in word :
-        if position == guees:
-            print("Correct")
-        else :
-            print("Wrong")
+    while not game_over :
+        
 
     
 
