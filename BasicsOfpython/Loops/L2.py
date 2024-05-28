@@ -13,4 +13,4 @@ list_of_name = [
 
 _names = random.choice(list_of_name)
 
-for letter in 
+for letter in _names
