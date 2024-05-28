@@ -12,8 +12,8 @@ list_of_name = [
 
 
 _names = random.choice(list_of_name) 
-empty = []
+empty = ""
 
 for letter in _names : # * Ang laman ng letter ay ang random letter sa list_of_name
-    empty += letter # * Ang empty  ay nag 
+    empty += letter # * Ang empty ay increament sa letter 
 print(empty)
