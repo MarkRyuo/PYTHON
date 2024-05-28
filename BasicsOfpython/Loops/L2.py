@@ -1,4 +1,4 @@
-
+import random 
 # Todo Loop 
 
 
@@ -9,3 +9,6 @@ list_of_name = [
     "Jian",
     "Arkjo"
 ]
+
+
+for letter
