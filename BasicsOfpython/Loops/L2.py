@@ -29,4 +29,5 @@ this_is_dict = {
 }
 
 for dict_ in this_is_dict :
-    
+    empty_list += dict_ 
+print(empty_list)
