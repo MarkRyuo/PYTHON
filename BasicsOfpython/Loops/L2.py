@@ -27,3 +27,6 @@ this_is_dict = {
     "name" : "Riyuo",
     "age" : 20
 }
+
+for dict_ in this_is_dict :
+    
