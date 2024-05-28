@@ -24,5 +24,6 @@ for letter in _names : # * Ang laman ng letter ay ang random letter sa list_of_n
 # print(empty_list) 
 
 this_is_dict = {
-    "name" : "Riyu"
+    "name" : "Riyuo"
+    "age" : 29
 }
