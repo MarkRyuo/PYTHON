@@ -2,7 +2,9 @@ import random
 # Todo Loop 
 
 # * [] This is List 
-# * 
+# * () This is Tuple 
+# * {} This is Set 
+# * {} This is Dict 
 
 
 list_of_name = [
