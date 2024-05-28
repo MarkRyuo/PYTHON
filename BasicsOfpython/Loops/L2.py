@@ -11,4 +11,6 @@ list_of_name = [
 ]
 
 
-for letter
+_names = 
+
+for letter in 
