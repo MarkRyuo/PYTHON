@@ -11,6 +11,6 @@ list_of_name = [
 ]
 
 
-_names = random.choice(list_of_name)
+_names = random.choice(list_of_name) 
 
-for letter in _names
+for letter in _names : # * Ang laman ng letter ay ang random letter sa list_of_name
