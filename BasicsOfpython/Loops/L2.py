@@ -16,3 +16,4 @@ empty = []
 
 for letter in _names : # * Ang laman ng letter ay ang random letter sa list_of_name
     empty += letter
+print
