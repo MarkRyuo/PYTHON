@@ -7,7 +7,7 @@ import random
 # * {} This is Dict 
 
 
-list_of_name = [
+list_of_name = [ 
     "Riyuo",
     "Niyari",
     "Sopheya",
@@ -17,8 +17,8 @@ list_of_name = [
 
 
 _names = random.choice(list_of_name) 
-empty = []
+empty_list = []
 
 for letter in _names : # * Ang laman ng letter ay ang random letter sa list_of_name
-    empty += letter # * Ang empty ay increament sa letter 
-print(empty)
+    empty_list += letter # * Ang empty ay increamented sa letter magkakaroon ng laman ang empty list  
+print(empty_list)
