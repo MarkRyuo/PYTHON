@@ -1,7 +1,8 @@
 import random 
 # Todo Loop 
 
-# * []
+# * [] This is List 
+# * 
 
 
 list_of_name = [
