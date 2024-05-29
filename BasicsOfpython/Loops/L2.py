@@ -59,6 +59,9 @@ def List_() :
                 list_ = False
             else : 
                 continue
+        
+
+List_()
 
 
 
