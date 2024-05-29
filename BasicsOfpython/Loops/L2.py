@@ -22,7 +22,6 @@ this_is_dict = { # * Dict
 
 
 
-
 def print_list() :
 
     _names = random.choice(list_of_name) 
@@ -32,7 +31,7 @@ def print_list() :
         empty_list += letter # * Ang empty ay increamented sa letter magkakaroon ng laman ang empty list  
     print(empty_list) 
 
-print_list()
+# print_list()
 
 
 def print_dict() :
@@ -45,5 +44,8 @@ def print_dict() :
     print(empty_list)
 
 
-print_dict()
+# print_dict()
+
+def _Dict() :
+    
 
