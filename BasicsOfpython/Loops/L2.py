@@ -31,3 +31,6 @@ this_is_dict = {
 # for dict_ in this_is_dict : # * Hindi nagana sa dict  
 #     empty_list += dict_ 
 # print(empty_list)
+
+
+name_ = this_is_dict["name"]
