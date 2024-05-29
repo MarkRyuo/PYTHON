@@ -6,7 +6,7 @@ import random
 # * {} This is Set 
 # * {} This is Dict 
 
-
+# * List 
 list_of_name = [ 
     "Riyuo",
     "Niyari",
