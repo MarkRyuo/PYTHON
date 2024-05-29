@@ -51,13 +51,12 @@ def List_() :
     list_ = True
     names_ = random.choice(list_of_name) 
     
-    while list_ :
 
-        for names in names_ :
-            if names == "Riyuo" :
-                list_ = False
-            else : 
-        
+    for names in names_ :
+        if names == "Riyuo" :
+            list_ = False
+        else : 
+            continue
 
 List_()
 
