@@ -48,7 +48,7 @@ def print_dict() :
 
 def List_() :
 
-    list_ = True
+    
     names_ = random.choice(list_of_name) 
     
 
@@ -56,7 +56,7 @@ def List_() :
         if names == "Riyuo" :
             break
         else : 
-            continue
+            c
 
 List_()
 
