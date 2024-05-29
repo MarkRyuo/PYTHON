@@ -28,9 +28,9 @@ this_is_dict = {
     "age" : 20
 }
 
-name_ = this_is_dict["name"]
+name_ = this_is_dict["name"] # * Sa dict kailagan mo i declare para makuha mo 
 
-for dict_ in name_ : # * Hindi nagana sa dict  
+for dict_ in name_ : 
     empty_list += dict_ 
 print(empty_list)
 
