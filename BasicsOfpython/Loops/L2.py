@@ -41,5 +41,5 @@ def print_dict() :
     print(empty_list)
 
 
-print_dict(empty_list)
+print_dict()
 
