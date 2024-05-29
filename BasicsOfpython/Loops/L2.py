@@ -48,7 +48,8 @@ def print_dict() :
 
 def List_() :
 
-    list_ = True 
+    list_ = True
+    names_ = random.choice(list_of_name) 
     
 
     while list_ :
