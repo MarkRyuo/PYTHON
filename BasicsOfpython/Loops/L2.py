@@ -38,7 +38,7 @@ def print_dict(empty_list) :
 
     for dict_ in name_ : 
         empty_list += dict_ 
-print(empty_list)
+    print(empty_list)
 
 
 print_dict(empty_list)
