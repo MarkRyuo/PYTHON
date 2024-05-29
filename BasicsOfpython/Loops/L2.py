@@ -54,7 +54,7 @@ def List_() :
 
     for names in names_ :
         if names == "Riyuo" :
-            list_ = False
+            break
         else : 
             continue
 
