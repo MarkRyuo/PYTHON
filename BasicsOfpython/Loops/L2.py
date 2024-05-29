@@ -57,7 +57,7 @@ def List_() :
             if names == "Riyuo" :
                 list_ = False
             else : 
-                continue
+                print
         
 
 List_()
