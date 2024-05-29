@@ -30,8 +30,10 @@ this_is_dict = {
 
 name_ = this_is_dict["name"] # * Sa dict kailagan mo i declare para makuha mo 
 
-for dict_ in name_ : 
-    empty_list += dict_ 
-print(empty_list)
+# for dict_ in name_ : 
+#     empty_list += dict_ 
+# print(empty_list)
 
+
+for di
 
