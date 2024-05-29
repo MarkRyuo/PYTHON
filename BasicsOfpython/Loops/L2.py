@@ -21,11 +21,11 @@ this_is_dict = { # * Dict
 }
 
 
-_names = random.choice(list_of_name) 
 
 
 def print_list() :
 
+    _names = random.choice(list_of_name) 
     empty_list = []
 
     for letter in _names : # * Ang laman ng letter ay ang random letter sa list_of_name
