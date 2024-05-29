@@ -14,6 +14,7 @@ list_of_name = [
     "Jian",
     "Arkjo"
 ]
+# * Dict 
 
 
 _names = random.choice(list_of_name) 
@@ -26,11 +27,6 @@ def print_list() :
     print(empty_list) 
 
 # print_list()
-
-this_is_dict = {
-    "name" : "Riyuo",
-    "age" : 20
-}
 
 name_ = this_is_dict["name"] # * Sa dict kailagan mo i declare para makuha mo 
 
