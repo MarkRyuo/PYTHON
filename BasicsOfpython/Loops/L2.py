@@ -26,6 +26,8 @@ _names = random.choice(list_of_name)
 
 def print_list() :
 
+    empty_list = []
+
     for letter in _names : # * Ang laman ng letter ay ang random letter sa list_of_name
         empty_list += letter # * Ang empty ay increamented sa letter magkakaroon ng laman ang empty list  
     print(empty_list) 
