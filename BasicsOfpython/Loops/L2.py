@@ -25,7 +25,7 @@ def print_list() :
         empty_list += letter # * Ang empty ay increamented sa letter magkakaroon ng laman ang empty list  
     print(empty_list) 
 
-print_list()
+# print_list()
 
 this_is_dict = {
     "name" : "Riyuo",
