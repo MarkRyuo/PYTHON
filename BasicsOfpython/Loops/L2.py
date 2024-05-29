@@ -23,6 +23,9 @@ empty_list = []
 #     empty_list += letter # * Ang empty ay increamented sa letter magkakaroon ng laman ang empty list  
 # print(empty_list) 
 
+def print_list() :
+    
+
 this_is_dict = {
     "name" : "Riyuo",
     "age" : 20
@@ -35,5 +38,5 @@ name_ = this_is_dict["name"] # * Sa dict kailagan mo i declare para makuha mo
 # print(empty_list)
 
 
-for dict_ in 
+while 
 
