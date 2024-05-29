@@ -19,7 +19,6 @@ list_of_name = [
 _names = random.choice(list_of_name) 
 empty_list = []
 
-
 def print_list() :
 
     for letter in _names : # * Ang laman ng letter ay ang random letter sa list_of_name
@@ -35,9 +34,10 @@ this_is_dict = {
 
 name_ = this_is_dict["name"] # * Sa dict kailagan mo i declare para makuha mo 
 
-# for dict_ in name_ : 
-#     empty_list += dict_ 
-# print(empty_list)
+def print_dict() :
+for dict_ in name_ : 
+    empty_list += dict_ 
+print(empty_list)
 
 
 while 
