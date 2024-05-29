@@ -34,7 +34,7 @@ def print_list() :
 
 name_ = this_is_dict["name"] # * Sa dict kailagan mo i declare para makuha mo 
 
-def print_dict(empty_list) :
+def print_dict() :
 
     for dict_ in name_ : 
         empty_list += dict_ 
