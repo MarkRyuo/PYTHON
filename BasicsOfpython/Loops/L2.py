@@ -56,7 +56,7 @@ def List_() :
         if names == "Riyuo" :
             break
         else : 
-            continue
+            pass # ! Fix This  
 
 List_()
 
