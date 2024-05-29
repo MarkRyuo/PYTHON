@@ -54,7 +54,7 @@ def List_() :
 
     while list_ :
 
-        for names in list_of_name :
+        for names in names_ :
             if names == "Riyuo" :
                 list_ = False
             else : 
