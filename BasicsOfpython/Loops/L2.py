@@ -15,6 +15,11 @@ list_of_name = [
     "Arkjo"
 ]
 # * Dict 
+this_is_dict = {
+    "name" : "Riyuo",
+    "age" : 20
+}
+
 
 
 _names = random.choice(list_of_name) 
