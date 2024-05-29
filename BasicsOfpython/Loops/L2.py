@@ -28,7 +28,7 @@ this_is_dict = {
     "age" : 20
 }
 
-name_ = this_is_dict["name", "age"]
+name_ = this_is_dict["name"]
 
 for dict_ in name_ : # * Hindi nagana sa dict  
     empty_list += dict_ 
