@@ -34,10 +34,10 @@ def print_list() :
 
 # print_list()
 
-name_ = this_is_dict["name"] # * Sa dict kailagan mo i declare para makuha mo 
 
 def print_dict() :
 
+    name_ = this_is_dict["name"] # * Sa dict kailagan mo i declare para makuha mo 
     empty_list = []
 
     for dict_ in name_ : 
