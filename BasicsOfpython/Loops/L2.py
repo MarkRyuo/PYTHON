@@ -30,7 +30,7 @@ this_is_dict = {
 
 name_ = this_is_dict["name"]
 
-for dict_ in this_is_dict : # * Hindi nagana sa dict  
+for dict_ in name_ : # * Hindi nagana sa dict  
     empty_list += dict_ 
 print(empty_list)
 
