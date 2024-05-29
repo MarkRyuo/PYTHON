@@ -35,5 +35,5 @@ name_ = this_is_dict["name"] # * Sa dict kailagan mo i declare para makuha mo
 # print(empty_list)
 
 
-for di
+for dict_ in 
 
