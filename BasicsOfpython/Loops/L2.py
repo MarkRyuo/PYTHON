@@ -48,14 +48,16 @@ def print_dict() :
 
 def List_() :
 
-    list_ = true 
+    list_ = True 
     
 
     while list_ :
 
         for names in list_of_name :
             if names == "Riyuo" :
-                list_ = false 
+                list_ = False
+            else : 
+                
 
 
 
