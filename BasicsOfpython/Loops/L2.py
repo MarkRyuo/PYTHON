@@ -6,16 +6,16 @@ import random
 # * {} This is Set 
 # * {} This is Dict 
 
-# * List 
-list_of_name = [ 
+
+list_of_name = [ # * List 
     "Riyuo",
     "Niyari",
     "Sopheya",
     "Jian",
     "Arkjo"
 ]
-# * Dict 
-this_is_dict = {
+
+this_is_dict = { # * Dict 
     "name" : "Riyuo",
     "age" : 20
 }
