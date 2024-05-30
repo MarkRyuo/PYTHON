@@ -54,9 +54,12 @@ def List_() :
 
     for _name in name_ :
         emptylist += _name 
+        if emptylist == "Riyuo":
+            break
     print(emptylist)
 
-    if emptylist == "Riyuo":
+        
+
         
         
 
