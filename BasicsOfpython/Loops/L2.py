@@ -54,9 +54,8 @@ def List_() :
 
         names_ = random.choice(list_of_name) 
         
-        if names_ == "Riyuo"
-            if names == "Riyuo" :
-                break
+        if names_ == "Riyuo" :
+            break
         else : 
             pass # ! Fix This  
 
