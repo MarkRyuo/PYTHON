@@ -54,7 +54,7 @@ def List_() :
 
         names_ = random.choice(list_of_name) 
         
-        for _name
+        for _name in names_
         
 
 List_()
