@@ -46,32 +46,20 @@ def print_dict() :
 
 # print_dict()
 
-# def List_() :
+def List_() :
 
     
-#     name_ = random.choice(LIST_OF_NAME)
-#     emptylist = []
-
-#     for _name in name_ :
-#         emptylist += _name 
-#         if _name == "Riyuo":
-#             break
-#     print(emptylist) 
-
-# List_()
-
-def list_():
-    list_of_name = [["Alice", "Bob", "Riyuo"], ["Charlie", "Riyuo", "Eve"], ["Frank", "Grace", "Riyuo"]]
-    name_ = random.choice(list_of_name)
+    name_ = random.choice(LIST_OF_NAME)
     emptylist = []
 
-    for _name in name_:
-        emptylist.append(_name)
+    for _name in name_ :
+        emptylist += _name 
         if _name == "Riyuo":
             break
+    print(emptylist) 
 
-    print(emptylist)
+List_()
 
-list_()
+
 
 
