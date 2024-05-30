@@ -55,11 +55,6 @@ def List_() :
     for _name in range(name_) :
         print(_name)
 
-
-    while True :
-
-        if emptylist == "Niyari"
-
         
 
 List_()
