@@ -49,17 +49,7 @@ def print_dict() :
 def List_() :
 
     
-    
-    while True :
-
-        names_ = random.choice(list_of_name) 
-        
-        for _name in names_ :
-
-            if _name == "Riyuo" :
-                print("Riyou")
-                break
-            return
+    name_ = random.choice(list_of_name)
         
         
 
