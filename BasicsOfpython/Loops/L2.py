@@ -50,10 +50,9 @@ def List_() :
 
     
     name_ = random.choice(LIST_OF_NAME)
-    namess = ""
-
+    
     for _name in name_ :
-        namess[_name]
+        pass # ! Fix this 
     
 List_()
 
