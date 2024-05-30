@@ -53,7 +53,7 @@ def List_() :
     while True :
 
         names_ = random.choice(list_of_name) 
-        
+        print(names_)
         if names_ == "Riyuo" :
             break
         else : 
