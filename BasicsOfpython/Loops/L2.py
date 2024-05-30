@@ -50,9 +50,10 @@ def List_() :
 
     
     name_ = random.choice(list_of_name)
+    emptylist = []
 
     for _name in name_ :
-        
+
         
         
 
