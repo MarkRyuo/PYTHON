@@ -51,12 +51,12 @@ def List_() :
     
     
     while True :
-        names_ = random.choice(list_of_name) 
 
-        for names in names_ :
+        names_ = random.choice(list_of_name) 
         
+        if names_ == "Riyuo"
             if names == "Riyuo" :
-            break
+                break
         else : 
             pass # ! Fix This  
 
