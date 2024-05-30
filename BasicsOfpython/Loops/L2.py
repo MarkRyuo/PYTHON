@@ -56,11 +56,7 @@ def List_() :
         emptylist += _name 
         if _name == "Riyuo":
             break
-    print(emptylist)
-
-        
-
-        
+    print(emptylist) 
         
 
 List_()
