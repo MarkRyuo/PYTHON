@@ -52,12 +52,14 @@ def List_() :
     name_ = random.choice(LIST_OF_NAME)
     emptylist = []
 
-    for _name in name_ :
+    for _name range(name_) :
         emptylist.append(_name) 
     print(emptylist) 
 
 
     while True :
+
+        if emptylist == "Niyari"
 
         
 
