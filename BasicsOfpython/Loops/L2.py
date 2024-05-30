@@ -51,6 +51,7 @@ def List_() :
     
     names_ = random.choice(list_of_name) 
     
+    while True
 
     for names in names_ :
         
