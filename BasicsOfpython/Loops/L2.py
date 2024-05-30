@@ -53,7 +53,7 @@ def List_() :
     namess = ""
 
     for _name in name_ :
-        namess += _name
+        namess[_name]
     
 List_()
 
