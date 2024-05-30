@@ -52,7 +52,7 @@ def List_() :
     name_ = random.choice(LIST_OF_NAME)
     emptylist = []
 
-    for _name range(name_) :
+    for _name in range(name_) :
         emptylist.append(_name) 
     print(emptylist) 
 
