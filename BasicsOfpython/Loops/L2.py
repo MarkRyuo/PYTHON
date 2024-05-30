@@ -49,9 +49,9 @@ def print_dict() :
 def List_() :
 
     
-    names_ = random.choice(list_of_name) 
     
     while True
+    names_ = random.choice(list_of_name) 
 
     for names in names_ :
         
