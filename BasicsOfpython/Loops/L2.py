@@ -52,7 +52,7 @@ def List_() :
     name_ = random.choice(LIST_OF_NAME)
 
     for _name in name_ :
-        emptylist.append(_name) 
+        # emptylist.append(_name) 
         if _name == "Riyuo":
             break
     print(emptylist) 
