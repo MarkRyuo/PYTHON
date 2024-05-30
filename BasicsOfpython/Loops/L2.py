@@ -58,7 +58,7 @@ def List_() :
 
             if _name == "Riyuo" :
                 break
-        print(_names)
+        print(_name)
         
 
 List_()
