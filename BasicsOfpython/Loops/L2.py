@@ -7,7 +7,7 @@ import random
 # * {} This is Dict 
 
 
-list_of_name = [ # * List 
+LIST_OF_NAME = [ # * List 
     "Riyuo",
     "Niyari",
     "Sopheya",
