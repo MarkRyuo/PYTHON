@@ -54,9 +54,12 @@ def List_() :
 
     for _name in name_ :
         emptylist.append(_name) 
-        if _name == "Riyuo":
-            break
     print(emptylist) 
+
+
+    while True :
+
+        
 
 List_()
 
