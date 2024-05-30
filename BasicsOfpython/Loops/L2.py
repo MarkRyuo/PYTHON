@@ -53,10 +53,8 @@ def List_() :
     emptylist = []
 
     for _name in range(name_) :
-        print(_name)
-
-        
-
+        print(_name)    
+    return
 List_()
 
 
