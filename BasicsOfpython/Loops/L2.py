@@ -53,8 +53,8 @@ def List_() :
     
 
     for _name in name_ :
-         namess = _name
-
+        namess = _name
+        return namess
     
 List_()
 
