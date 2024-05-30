@@ -54,8 +54,7 @@ def List_() :
 
         names_ = random.choice(list_of_name) 
         
-        if names_ == "Riyuo" :
-            break
+        for _name
         
 
 List_()
