@@ -53,7 +53,7 @@ def List_() :
     
 
     for _name in name_ :
-        print(_name)
+         namess = _name
 
     
 List_()
