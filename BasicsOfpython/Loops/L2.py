@@ -52,7 +52,7 @@ def List_() :
     name_ = random.choice(LIST_OF_NAME)
     
 
-    for _name in range(name_) :
+    for _name in name_ :
         print(_name)
 
     
