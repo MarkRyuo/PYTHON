@@ -54,7 +54,7 @@ def List_() :
 
     for _name in name_ :
         namess = _name
-        return namess
+        print(namess)
     
 List_()
 
