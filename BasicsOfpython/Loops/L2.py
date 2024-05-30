@@ -52,9 +52,10 @@ def List_() :
     name_ = random.choice(LIST_OF_NAME)
     emptylist = []
 
-    for _name in range(name_) :
-        print(_name)    
-    return
+    for _name in name_ :
+        print(_name)
+
+    
 List_()
 
 
