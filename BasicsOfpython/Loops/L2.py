@@ -50,10 +50,10 @@ def List_() :
 
     
     
-    while True
-    names_ = random.choice(list_of_name) 
+    while True :
+        names_ = random.choice(list_of_name) 
 
-    for names in names_ :
+        for names in names_ :
         
         if names == "Riyuo" :
             break
