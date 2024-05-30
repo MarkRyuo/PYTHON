@@ -54,7 +54,9 @@ def List_() :
 
         names_ = random.choice(list_of_name) 
         
-        for _name in names_
+        for _name in names_ :
+
+            if _name == "Riyuo"
         
 
 List_()
