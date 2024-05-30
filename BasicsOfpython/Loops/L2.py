@@ -49,7 +49,7 @@ def print_dict() :
 def List_() :
 
     
-    name_ = random.choice(list_of_name)
+    name_ = random.choice(LIST_OF_NAME)
     emptylist = []
 
     for _name in name_ :
