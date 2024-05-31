@@ -55,9 +55,11 @@ def List_() :
     for _name in name_ :
         emptylist.append(_name)
     print(emptylist)
-
+     
+    while True :
+        
     if emptylist == ["Niyari"] :
-        break
+        
 
 
     
