@@ -56,6 +56,9 @@ def List_() :
         emptylist.append(_name)
     print(emptylist)
 
+    if emptylist == ["Niyari"] :
+        break
+
 
     
 List_()
