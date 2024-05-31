@@ -55,7 +55,7 @@ def List_() :
 
         emptylist = []
         for _name in name_ :
-            emptylist.append(_name)
+            emptylist += _name
         return emptylist
 
     emptylist = loop1()
