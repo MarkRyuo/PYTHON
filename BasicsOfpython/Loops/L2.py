@@ -54,9 +54,10 @@ def List_() :
 
     for _name in name_ :
         emptylist = emptylist.append(_name)
-    return emptylist
+        if emptylist == "Niyari" :
+            
 
-    
+
     
 List_()
 
