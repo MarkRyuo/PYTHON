@@ -57,9 +57,9 @@ def List_() :
     print(emptylist)
      
     while True :
-        
-    if emptylist == ["Niyari"] :
-        
+
+        if emptylist == ["Niyari"] :
+            break
 
 
     
