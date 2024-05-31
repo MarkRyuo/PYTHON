@@ -51,15 +51,17 @@ def List_() :
     
     name_ = random.choice(LIST_OF_NAME)
     emptylist = []
+    
+    def loop1() :
 
-    for _name in name_ :
+        for _name in name_ :
         emptylist.append(_name)
-    print(emptylist)
+    
 
        
     while True :
 
-        if emptylist == ["Niyari"] :
+        if emptylist == "Niyari" :
             break
 
 
