@@ -50,13 +50,13 @@ def List_() :
 
     
     name_ = random.choice(LIST_OF_NAME)
-    emptylist = []
     
     def loop1() :
 
+        emptylist = []
         for _name in name_ :
             emptylist.append(_name)
-    
+        return emptylist
 
        
     while True :
