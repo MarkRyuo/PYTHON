@@ -53,7 +53,7 @@ def List_() :
     emptylist = []
 
     for _name in name_ :
-        emptylist[_name]
+        emptylist.append(_name)
     print(emptylist)
     
 List_()
