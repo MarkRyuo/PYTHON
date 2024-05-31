@@ -46,28 +46,25 @@ def print_dict() :
 
 # print_dict()
 
-def List_() :
-
+def List_():
+    LIST_OF_NAME = ["Niyari", "Alice", "Bob", "John"]  # Example list of names
     
-    name_ = random.choice(LIST_OF_NAME)
-    
-    def loop1() :
-
+    def loop1(name):
         emptylist = []
-        for _name in name_ :
-            emptylist += _name
+        for char in name:
+            emptylist.append(char)
         return emptylist
 
-    emptylist = loop1()
-   
-    while True :
-
-        if emptylist == "Niyari" :
+    while True:
+        name_ = random.choice(LIST_OF_NAME)
+        emptylist = loop1(name_)
+        
+        if ''.join(emptylist) == "Niyari":
             break
 
+    return emptylist
 
-    
-List_()
+print(List_()))
 
 
 
