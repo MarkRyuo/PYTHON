@@ -59,7 +59,6 @@ def List_() :
         return emptylist
 
     emptylist = loop1()
-   
     while True :
 
         if emptylist == "Niyari" :
