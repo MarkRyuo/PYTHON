@@ -52,9 +52,8 @@ def List_() :
     name_ = random.choice(LIST_OF_NAME)
     
     for _name in name_ :
-        pass # ! Fix this 
 
-    
+     
     
 List_()
 
