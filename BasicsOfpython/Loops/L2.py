@@ -54,7 +54,7 @@ def List_() :
 
     for _name in name_ :
         emptylist.append(_name)
-        if emptylist == "Niyari" :
+        if ''.join(emptylist) == "Niyari":
             break
 
 
