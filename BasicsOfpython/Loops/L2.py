@@ -58,6 +58,7 @@ def List_() :
             emptylist.append(_name)
         return emptylist
 
+    emptylist = loop1()
        
     while True :
 
