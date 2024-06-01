@@ -32,7 +32,7 @@ def Outer() :
  
     def Inner() :
 
-        global_variable = "Hello Inner variable in Nested Function"
+        global_variable = 19
         
     Inner()
 
