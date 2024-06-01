@@ -51,7 +51,7 @@ def print_dict() :
 # * Function(def) - Nested Function 
 
 
-global_variable = "Hello World" # * Global variable 
+global_variable = "Hello World Global Variable" # * Global variable 
 
 def Outer() :
 
