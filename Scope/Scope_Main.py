@@ -24,7 +24,7 @@ Outer()
 
 
 
-global_variable = "Hello World Global Variable" # * Global variable 
+global_variable = 19 # * Global variable 
 
 def Outer() :
 
