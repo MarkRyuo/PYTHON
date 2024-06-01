@@ -6,7 +6,7 @@
 # * Function(def) - Nested Function 
 
 
-global_variable = "Hello World Global Variable" # * Global variable 
+# global_variable = "Hello World Global Variable" # * Global variable 
 
 def Outer() :
 
