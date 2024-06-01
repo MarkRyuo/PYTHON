@@ -53,7 +53,8 @@ def print_dict() :
 
 global_variable = "Hello World" # * Global variable 
 
-def 
+def Outer() :
+    
 
 
 
