@@ -48,6 +48,7 @@ def print_dict() :
 
 
 # * Scope (global, local)
+# * Function(def) - 
 
 
 
