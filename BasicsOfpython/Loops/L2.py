@@ -58,7 +58,8 @@ def Outer() :
     global_variable = "Hello local variable"
 
     def Inner() :
-        
+
+        global_variable = "Hello Inner variable in Nested Function"
 
 
 
