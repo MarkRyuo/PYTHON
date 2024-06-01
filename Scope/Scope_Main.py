@@ -38,7 +38,6 @@ def Outer() :
 
 Outer()
 
-print(global_variable)
 
 
-print()
+print(f"")
