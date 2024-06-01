@@ -28,7 +28,7 @@ global_variable = "Hello World Global Variable" # * Global variable
 
 def Outer() :
 
-    global_variable = "Hello local variable"
+    global_variable = 20
  
     def Inner() :
 
