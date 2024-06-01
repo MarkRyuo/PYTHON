@@ -35,7 +35,7 @@ def Outer() :
         global_variable = 19 # * Variable in Inner is age 19
         return global_variable
 
-    Inner()
+    inner = Inner()
 
 Outer()
 
