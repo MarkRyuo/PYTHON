@@ -40,4 +40,4 @@ Outer()
 
 
 
-print(f"")
+print(f"In Global variable my age is: {global_variable}")
