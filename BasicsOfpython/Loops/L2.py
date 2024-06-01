@@ -64,5 +64,4 @@ def Outer() :
 
 Outer()
 
-
-
+print(global_variable)
