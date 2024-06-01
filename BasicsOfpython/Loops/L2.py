@@ -48,7 +48,10 @@ def print_dict() :
 
 
 # * Scope (global, local)
-# * Function(def) - 
+# * Function(def) - Nested Function 
+
+
+
 
 
 
