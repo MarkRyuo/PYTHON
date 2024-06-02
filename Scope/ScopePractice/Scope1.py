@@ -9,4 +9,4 @@ def Age() :
     
     question1 = input("What is your age?: ")
 
-    if question1 == variable_age
+    if question1 is not variable_age
