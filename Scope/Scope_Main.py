@@ -41,6 +41,4 @@ def Outer() :
 
 # Outer()
 
-
-
-print(f"In Global variable my age is: {global_variable}")
+# print(f"In Global variable my age is: {global_variable}")
