@@ -37,7 +37,7 @@ def Outer() :
 
     inner = Inner()
 
-    # Todo Ayusin tong Scope
+    
 
 Outer()
 
