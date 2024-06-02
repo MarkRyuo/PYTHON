@@ -18,7 +18,7 @@ def Outer() :
         print(global_variable)
     Inner()
 
-Outer()
+# Outer()
 
 # print(global_variable)
 
