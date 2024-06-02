@@ -10,3 +10,4 @@ def Age() :
     question1 = input("What is your age?: ")
 
     if question1 is variable_age :
+        print("Your age is not bad!")
