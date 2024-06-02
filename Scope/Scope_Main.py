@@ -27,7 +27,7 @@ def Outer() :
 global_variable = 21 # * Global variable 
 
 def Outer() :
-    global global_variable
+    # global global_variable 
     global_variable = 20
  
     def Inner() :
