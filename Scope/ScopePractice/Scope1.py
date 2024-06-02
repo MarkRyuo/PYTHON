@@ -9,8 +9,10 @@ def Age() :
     
     question1 = input("What is your age?: ")
 
-    if question1 is variable_age :
+    if question1 is not variable_age :
         print("Your age is not bad!")
     else :
         print(f"{question1} is bad {variable_age} is good")
         
+
+Age()
