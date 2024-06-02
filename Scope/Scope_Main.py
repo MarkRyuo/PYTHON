@@ -33,7 +33,7 @@ def Outer() :
     def Inner() :
         
         # global_variable = 19 # * Variable in Inner is age 19
-        print(f"Hello my age is : ")
+        print(f"Hello my age is : {global_variable}")
 
     inner = Inner()
 
