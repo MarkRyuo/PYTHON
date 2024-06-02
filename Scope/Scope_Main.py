@@ -29,9 +29,9 @@ global_variable = 21 # * Global variable
 def Outer() :
     # global global_variable 
     global_variable = 20
- 
+    
     def Inner() :
-
+        
         global_variable = 19 # * Variable in Inner is age 19
         return global_variable
 
