@@ -2,3 +2,6 @@
 
 
 variable_age = 21 # * Global Variable 
+
+def Age() :
+    
