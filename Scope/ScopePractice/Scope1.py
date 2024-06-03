@@ -24,7 +24,9 @@ def Age() :
             for loopnumber in range(0, 50): 
                 if loopnumber == variable_age :
                     print("Right")
+                    break
                 else :
+
                     
 
 
