@@ -17,10 +17,10 @@ def Age() :
         
     def Inner_age() :
 
-        variable_age = 17 # * Local variable inside the nested function  
 
         while True :
 
+            variable_age = 17 # * Local variable inside the nested function  
             for loopnumber in range(0, 50): 
                 if loopnumber == variable_age :
                     print("Right")
