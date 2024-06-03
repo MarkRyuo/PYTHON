@@ -28,6 +28,7 @@ def Age() :
                 else :
                     print(f"Try again: {loopnumber}")
 
+    Inner_age()
                     
 
 
