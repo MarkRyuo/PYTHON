@@ -19,8 +19,12 @@ def Age() :
 
         variable_age = 17 # * Local variable inside the nested function  
 
+        while True
         for loopnumber in range(0, 50): 
             if loopnumber == variable_age :
+                print("Right")
+            else :
+                
 
 
 
