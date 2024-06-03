@@ -13,7 +13,7 @@ def Age() :
     if QUESTION1 == variable_age :
         print("Your age is not bad!")
     else :
-        print(f"{QUESTION1} is bad {variable_age} is good")
+        print(f"{QUESTION1} is bad {QUESTION1} is good")
         
 
 Age()
