@@ -26,7 +26,7 @@ def Age() :
                     print("Right")
                     break
                 else :
-                    print(f"Try again: {loopnumber}")
+                    print(f"Try again: {loopnumber}") # ! Fix all code 
 
     Inner_age()
                     
