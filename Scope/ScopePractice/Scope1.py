@@ -20,9 +20,7 @@ def Age() :
         variable_age = 17 # * Local variable inside the nested function  
 
         for loopnumber in range(0, 50): 
-            
-
-        if variable_age >= 
+            if loopnumber == variable_age :
 
 
 
