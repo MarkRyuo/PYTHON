@@ -15,8 +15,12 @@ def Age() :
     else :
         print(f"{QUESTION1} is bad {QUESTION1} is good")
         
-    def Inner() :
+    def Inner_age() :
+
+        variable_age = 17 
+
         
+
 
 Age()
 
