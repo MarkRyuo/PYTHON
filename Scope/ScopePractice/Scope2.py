@@ -3,13 +3,18 @@
 # * Loop
 
 
-age = input("Enter your age: ") # * Global Variable 
+ages = [
+    21,
+    20,
+    19,
+    18,
+    17
+] # * Global Variable 
 
 def Enter_age() :
 
     
-    for i in range(age) :
-        print(i)
+    
 
 Enter_age()
 
