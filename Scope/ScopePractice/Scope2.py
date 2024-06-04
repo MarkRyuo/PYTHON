@@ -9,7 +9,7 @@ def Enter_age() :
 
     
     for i in range(0, 30) :
-        print(i)
+        i[age]
 
 Enter_age()
 
