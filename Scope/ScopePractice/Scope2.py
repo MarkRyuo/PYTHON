@@ -3,6 +3,8 @@
 # * Loop
 
 
-age = input("Enter your age: ")
+age = input("Enter your age: ") # * Global Variable 
 
-def Enter_age()
+def Enter_age() :
+
+    while 
