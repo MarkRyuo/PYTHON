@@ -3,3 +3,4 @@
 # * Loop
 
 
+age = input("Enter your age")
