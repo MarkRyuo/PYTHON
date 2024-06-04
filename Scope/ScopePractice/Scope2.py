@@ -13,7 +13,9 @@ ages = [ # * Global Variable
 
 def Enter_age() :
 
-    for i in range() :
+    ages = str(ages)
+    
+    for i in range(ages) :
         print(i)
     
 
