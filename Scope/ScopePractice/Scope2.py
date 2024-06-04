@@ -4,3 +4,5 @@
 
 
 age = input("Enter your age: ")
+
+def Enter_age()
