@@ -29,9 +29,6 @@ def Age() :
                     print(f"Try again: {loopnumber}") # ! Fix all code 89
 
     Inner_age()
-                    
-
-
 
 Age()
 
