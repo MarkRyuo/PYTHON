@@ -9,7 +9,9 @@ def Enter_age() :
 
     
     for i in range(0, 30) :
-        if age == i :
+        print(i)
+
+Enter_age()
 
 
         
