@@ -7,6 +7,7 @@ age = input("Enter your age: ") # * Global Variable
 
 def Enter_age() :
 
-    while age :
+    while True :
+
 
         
