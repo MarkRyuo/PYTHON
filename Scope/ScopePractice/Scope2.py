@@ -10,10 +10,10 @@ ages = [ # * Global Variable
     18,
     17
 ]  
+ages = str(ages)
 
 def Enter_age() :
 
-    ages = str(ages)
     
     for i in range(ages) :
         print(i)
