@@ -27,6 +27,7 @@ def Age() :
         else :
             print("Fair")
     
+    
 
 Age()
 
