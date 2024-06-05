@@ -18,7 +18,9 @@ def Age() :
     for i in ages :
         print(i)
 
-    def age
+    def Enter_age() :
+
+        AGE = input("Enter your age")
     
 
 Age()
