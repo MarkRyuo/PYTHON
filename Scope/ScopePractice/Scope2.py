@@ -16,7 +16,7 @@ def Age() :
 
     
     for i in ages :
-        
+        print(i)
 
     def Enter_age() :
 
