@@ -24,6 +24,8 @@ def Age() :
 
         if age in i :
             print("Good Job")
+        else :
+            print("Fair")
     
 
 Age()
