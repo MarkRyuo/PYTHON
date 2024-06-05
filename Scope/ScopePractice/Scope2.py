@@ -68,6 +68,7 @@ def Ages_1() :
                 break
             else :
                 print("Try again")
+                continue 
                 
 
 Ages_1()
