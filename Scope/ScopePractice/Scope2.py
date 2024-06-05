@@ -20,7 +20,7 @@ def Age() :
 
     def Enter_age() :
 
-        AGE = input("Enter your age")
+        AGE = input("Enter your age: ")
     
 
 Age()
