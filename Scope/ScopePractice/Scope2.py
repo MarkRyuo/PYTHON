@@ -22,7 +22,7 @@ def Age() :
 
         AGE = input("Enter your age: ")
 
-        if AGE in i :
+        if int(AGE) in i :
             print("Good Job")
         else :
             print("Fair")
