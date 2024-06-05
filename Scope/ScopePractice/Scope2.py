@@ -29,7 +29,7 @@ def Age() :
     
     enter_age = Enter_age()
 
-    print(f"{i} \n Your input is {Enter_age}")
+    print(f"Your input is {enter_age}")
     
 
 Age()
