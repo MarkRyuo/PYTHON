@@ -39,6 +39,8 @@ ages = [ # * Global Variable
 
 def Ages() :
 
+    Q1 = input("Enter a Number")
+
     for i in ages :
         
 
