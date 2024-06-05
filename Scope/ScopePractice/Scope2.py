@@ -67,6 +67,6 @@ def Ages_1() :
                 age = False
             else :
                 print("Try again")
-                continue
+                
 
         
