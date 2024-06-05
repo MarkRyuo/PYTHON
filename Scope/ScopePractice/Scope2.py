@@ -45,7 +45,7 @@ def Ages() :
         if Q1 == i :
             print("Unlock")
         else :
-            break
+            print("Lose")
 
 Ages() 
 
