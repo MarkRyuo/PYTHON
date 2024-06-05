@@ -62,13 +62,14 @@ def Ages_1() :
         Q1 = input("Enter your age: ")
 
         for i in ages :
+
             if i == int(Q1) :
                 print("UNLOCK🔓") 
                 age = False
                 break
             else :
                 print("Try again")
-                continue 
+                 
                 
 
 Ages_1()
