@@ -10,7 +10,7 @@ ages = [ # * Global Variable
     18,
     17
 ]  
-ages = str(ages) # ! Fix this 
+# ages = str(ages) # ! Fix this 
 
 def Enter_age() :
 
