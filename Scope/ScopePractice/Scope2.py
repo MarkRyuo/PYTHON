@@ -55,6 +55,10 @@ def Ages() :
 
 def Ages_1() :
 
-    age = True  
+    age = True 
+
+    while age :
+
+        Q1 = input("Enter your age: ") 
 
         
