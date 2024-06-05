@@ -44,8 +44,8 @@ def Ages() :
     for i in ages :
 
         if int(Q1) == i :
-            break
             print("Unlock")
+            break
         else :
             print("Lose")
 
