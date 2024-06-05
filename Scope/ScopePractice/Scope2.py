@@ -15,7 +15,7 @@ ages = str(ages) # ! Fix this
 def Enter_age() :
 
     
-    for i in range(ages) :
+    for i in ages :
         print(i)
     
 
