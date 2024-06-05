@@ -37,4 +37,10 @@ ages = [ # * Global Variable
 ] 
 
 
+def Ages() :
+
+    for i in ages :
+        
+
+
         
