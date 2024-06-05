@@ -37,6 +37,8 @@ ages = [ # * Global Variable
 ] 
 
 
+# * 1 
+
 def Ages() :
 
     Q1 = input("Enter a Number: ")
@@ -49,6 +51,10 @@ def Ages() :
         else :
             print("Lose")
 
-Ages() 
+# Ages()
+
+def Ages_1() :
+
+    age = True  
 
         
