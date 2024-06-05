@@ -69,4 +69,5 @@ def Ages_1() :
                 print("Try again")
                 
 
+Ages_1()
         
