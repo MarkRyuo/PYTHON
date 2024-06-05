@@ -16,7 +16,7 @@ def Age() :
 
     
     for i in ages :
-        print(i)
+        
 
     def Enter_age() :
 
@@ -28,6 +28,8 @@ def Age() :
             print("Fair")
     
     enter_age = Enter_age()
+
+    print
     
 
 Age()
