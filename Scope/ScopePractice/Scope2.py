@@ -66,9 +66,8 @@ def Ages_1() :
                 print("UNLOCK🔓") 
                 age = False
                 break
-            else :
-                print("Try again")
-                continue  
+        else :
+            print("Try again")  
                 
 
 Ages_1()
