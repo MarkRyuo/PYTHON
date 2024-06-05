@@ -12,11 +12,13 @@ ages = [ # * Global Variable
 ]  
 # ages = str(ages) # ! Fix this 
 
-def Enter_age() :
+def Age() :
 
     
     for i in ages :
         print(i)
+
+    def age
     
 
 Enter_age()
