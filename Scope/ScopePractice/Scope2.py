@@ -64,8 +64,9 @@ def Ages_1() :
         for i in ages :
             if i == Q1 :
                 print("UNLOCK🔓") 
-                break
+                age = False
             else :
                 print("Try again")
+                continue
 
         
