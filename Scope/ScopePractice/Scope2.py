@@ -66,6 +66,6 @@ def Ages_1() :
                 print("UNLOCK🔓") 
                 break
             else :
-                print("")
+                print("Try again")
 
         
