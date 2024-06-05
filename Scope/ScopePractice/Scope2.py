@@ -12,27 +12,27 @@ ages = [ # * Global Variable
 ]  
 # ages = str(ages) # ! Fix this 
 
-def Age() :
+# def Age() :
 
     
-    for i in ages :
-        print(i)
+#     for i in ages :
+#         print(i)
 
-    def Enter_age() :
+#     def Enter_age() :
 
-        AGE = input("Enter your age: ")
+#         AGE = input("Enter your age: ")
 
-        if int(AGE) in i :
-            print("Good Job")
-        else :
-            print("Fair")
+#         if int(AGE) in i :
+#             print("Good Job")
+#         else :
+#             print("Fair")
     
-    enter_age = Enter_age()
+#     enter_age = Enter_age()
 
-    print(f"Your input is {enter_age}")
+#     print(f"Your input is {enter_age}")
     
 
-Age()
+# Age()
 
 
         
