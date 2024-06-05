@@ -59,6 +59,13 @@ def Ages_1() :
 
     while age :
 
-        Q1 = input("Enter your age: ") 
+        Q1 = input("Enter your age: ")
+
+        for i in ages :
+            if i == Q1 :
+                print("UNLOCK🔓") 
+                break
+            else :
+                print("")
 
         
