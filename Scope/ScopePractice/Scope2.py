@@ -21,6 +21,9 @@ def Age() :
     def Enter_age() :
 
         AGE = input("Enter your age: ")
+
+        if age in i :
+            print("Good Job")
     
 
 Age()
