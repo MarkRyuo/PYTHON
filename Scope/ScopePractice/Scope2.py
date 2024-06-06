@@ -62,7 +62,7 @@ def Main() :
 
     ages_1 = Ages_1()
     
-    if ages_1 == 
+    if ages_1 == age_limit 
 
 
 
