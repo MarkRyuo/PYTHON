@@ -70,7 +70,7 @@ def Ages_1() :
                 break
         else :
             print("Try again")
-            continue  
+            break  
 
     return Q1            
 
