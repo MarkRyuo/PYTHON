@@ -61,7 +61,7 @@ def Ages_1() :
 
     while age :
 
-        Q1 = input("Enter your age: ")
+        # Q1 = input("Enter your age: ")
 
         for i in ages :
             if i == int(Q1) :
