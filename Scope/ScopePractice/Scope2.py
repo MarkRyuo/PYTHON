@@ -54,7 +54,9 @@ def Ages_1() :
                 age = False
                 break
         else :
-            print("Try again") 
+            print("Try again")
+
+
 
     return Q1            
 
@@ -63,7 +65,6 @@ def Main() :
     ages_1 = Ages_1()
     
     # Todo create a attempt 
-    if age
 
 
 
