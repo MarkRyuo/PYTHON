@@ -71,7 +71,9 @@ def Main() :
     ages_1 = Ages_1()
     
     if ages is not None :
-
+        print(f"Access granted for age: {age}")
+    else:
+        print("Access denied")
 
 
 
