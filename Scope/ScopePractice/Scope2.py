@@ -70,11 +70,11 @@ def Ages_1() :
             print("Try again")  
                 
 
-def main() :
+def Main() :
 
     Ages_1()
 
 
 
-main()
+Main()
         
