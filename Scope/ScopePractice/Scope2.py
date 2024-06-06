@@ -37,21 +37,7 @@ ages = [ # * Global Variable
 ] 
 
 
-# * 1 
-
-def Ages() :
-
-    Q1 = input("Enter a Number: ")
-
-    for i in ages :
-
-        if int(Q1) == i :
-            print("Unlock")
-            break
-        else :
-            print("Lose")
-
-# Ages()
+# * 
 
 def Ages_1() :
 
@@ -74,7 +60,8 @@ def Ages_1() :
 def Main() :
 
     ages_1 = Ages_1()
-    print(ages_1)
+    
+    if ages_1 == 
 
 
 
