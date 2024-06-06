@@ -43,6 +43,7 @@ age_limit = 16
 def Ages_1() :
 
     age = True 
+    attempt = 2 
 
     while age :
 
