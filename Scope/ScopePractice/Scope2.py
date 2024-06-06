@@ -73,7 +73,7 @@ def Ages_1() :
 
 def Main() :
 
-    Ages_1()
+    ages_1 = Ages_1()
 
 
 
