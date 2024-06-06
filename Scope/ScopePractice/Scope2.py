@@ -74,6 +74,7 @@ def Ages_1() :
 def Main() :
 
     ages_1 = Ages_1()
+    print(ages_1)
 
 
 
