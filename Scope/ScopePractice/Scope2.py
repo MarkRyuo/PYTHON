@@ -59,7 +59,8 @@ def Ages_1() :
                 print("Try again")
             else :
                 print("Attempt Block")
-                
+    
+        return None 
     # Todo create a 2 attempt block 
 
 
@@ -69,6 +70,7 @@ def Main() :
 
     ages_1 = Ages_1()
     
+    if ages is not None :
 
 
 
