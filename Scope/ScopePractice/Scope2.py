@@ -68,11 +68,13 @@ def Ages_1() :
                 break
         else :
             print("Try again")  
-                
+
+    return Q1            
 
 def Main() :
 
     Ages_1()
+
 
 
 
