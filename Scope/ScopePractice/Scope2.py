@@ -49,7 +49,7 @@ def Ages_1() :
 
         Q1 = input("Enter your age: ")
 
-        for i in ages :
+        for i in ages : # ! Fix this 
             if i == int(Q1) :
                 print("UNLOCK🔓") 
                 return Q1
