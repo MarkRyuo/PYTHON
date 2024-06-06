@@ -71,4 +71,10 @@ def Ages_1() :
                 
 
 def main() :
+
+    Ages_1()
+
+
+
+main()
         
