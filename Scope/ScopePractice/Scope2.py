@@ -60,7 +60,7 @@ def Ages_1() :
             else :
                 print("Attempt Block")
     
-        return None # ! None Understanding 
+        return None # ! None k Understanding 
     # Todo create a 2 attempt block 
 
 
@@ -70,7 +70,7 @@ def Main() :
 
     ages_1 = Ages_1()
     
-    if ages is not None :
+    if ages is not None : # ! Is not Under 
         print(f"Access granted for age: {ages_1}")
     else:
         print("Access denied")
