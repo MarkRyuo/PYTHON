@@ -56,7 +56,8 @@ def Ages_1() :
         else :
             print("Try again")
 
-
+    # Todo create a attempt 
+    
 
     return Q1            
 
@@ -64,7 +65,6 @@ def Main() :
 
     ages_1 = Ages_1()
     
-    # Todo create a attempt 
 
 
 
