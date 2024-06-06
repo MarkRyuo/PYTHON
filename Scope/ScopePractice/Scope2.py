@@ -54,6 +54,7 @@ def Ages_1() :
                 print("UNLOCK🔓") 
                 return Q1
         else :
+            attempt -= 1
             print("Try again")
 
     # Todo create a 2 attempt block 
