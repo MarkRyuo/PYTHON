@@ -70,7 +70,5 @@ def Ages_1() :
             print("Try again")  
                 
 
-Ages_1()
-
 def main() :
         
