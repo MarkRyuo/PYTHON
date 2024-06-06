@@ -36,8 +36,9 @@ ages = [ # * Global Variable
     17
 ] 
 
+age_limit = 16 
 
-# * 
+# TODO if age is
 
 def Ages_1() :
 
