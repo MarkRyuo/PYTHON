@@ -17,3 +17,6 @@ def Variable() :
     
 
 Variable()
+
+print(variable)
+
