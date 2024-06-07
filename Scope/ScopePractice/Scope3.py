@@ -9,6 +9,7 @@ def Variable() :
 
     variable = "This is a Local Variable"
 
-    def inner_variable() :
-        
+    def InnerVariable() :
+
+
     
