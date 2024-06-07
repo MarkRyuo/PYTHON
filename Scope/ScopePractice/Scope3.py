@@ -2,7 +2,7 @@
 # TODO Scope
 
 
-variable = "This is Global Variable"
+variable = "This is Global Variable" # * This is a global variable, ito ay magagamit kahit sa loob ng function
 
 
 def Variable() :
