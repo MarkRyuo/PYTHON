@@ -7,7 +7,7 @@ variable = "This is Global Variable"
 
 def Variable() :
 
-    variable = "This is a Local Variable"
+    variable = "This is a Local Variable" # * This is a local variable, sa loob lamang ito ng function magagamit 
     print(variable)
 
     def InnerVariable() :
