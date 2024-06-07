@@ -55,7 +55,7 @@ def Ages_1() :
                 return Q1
         else :
             attempt -= 1
-            if attempt > 0 :
+            if attempt < 0 :
                 print("Try again")
             else :
                 print("Attempt Block")
