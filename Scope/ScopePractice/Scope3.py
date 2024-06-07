@@ -5,4 +5,7 @@
 variable = "This is Global Variable"
 
 
-def Variable()
+def Variable() :
+
+    variable = "This is a Local Variable"
+    
