@@ -5,3 +5,4 @@
 variable = "This is Global Variable"
 
 
+def Variable()
