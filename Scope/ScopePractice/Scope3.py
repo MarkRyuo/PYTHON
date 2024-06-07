@@ -2,4 +2,4 @@
 # TODO Scope
 
 
-age = 21 
+variable = "This is Global Variable "
