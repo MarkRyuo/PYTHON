@@ -11,5 +11,5 @@ def Variable() :
 
     def InnerVariable() :
 
-
+        variable = "Local varible in a Nested function"
     
