@@ -2,4 +2,4 @@
 # TODO Scope
 
 
-variable = "This is Global Variable "
+variable = "This is Global Variable"
