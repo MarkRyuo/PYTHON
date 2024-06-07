@@ -13,6 +13,7 @@ def Variable() :
 
         variable = "Local varible in a Nested function"
         print(variable)
+        
     InnerVariable()
     
 
