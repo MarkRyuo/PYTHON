@@ -9,7 +9,7 @@ def Variable() :
     variable = "This is a Local Variable" # * This is a local variable, sa loob lamang ito ng function magagamit 
     print(variable)
 
-    def InnerVariable() :
+    def InnerVariable() : # * This is a Nested Function 
 
         variable = "Local varible in a Nested function"
         print(variable)
