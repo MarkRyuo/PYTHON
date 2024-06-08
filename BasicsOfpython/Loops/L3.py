@@ -33,8 +33,8 @@ def Loopofperson() :
 # Loopofperson()
 
 
-carbon = "Hi"
+carbon = 31
 
 for i in range(1, 4) :
-    i[carbon]
+    carbon += i 
 print(carbon)
