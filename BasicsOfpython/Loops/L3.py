@@ -20,6 +20,6 @@
 
 
 person = [
-    "name" : "Niyari" 
+    "name" : "Niyari", 
     "age" : 19
 ]
