@@ -23,3 +23,5 @@ person = [
     "name" : "Niyari", 
     "age" : 19
 ]
+
+def Loopofperson() ;
