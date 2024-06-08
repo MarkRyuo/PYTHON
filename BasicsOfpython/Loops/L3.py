@@ -24,6 +24,6 @@ person = [
     "age" : 19
 ]
 
-def Loopofperson() ;
+def Loopofperson() :
     
     for items in person :
