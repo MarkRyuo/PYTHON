@@ -19,3 +19,7 @@
 
 
 
+person = [
+    "name" : "Niyari" 
+    "age" : 19
+]
