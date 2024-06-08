@@ -20,8 +20,8 @@
 
 
 person = [
-    "name" : "Niyari", 
-    "age" : 19
+    "name": "Niyari", 
+    "age": 19
 ]
 
 def Loopofperson() :
