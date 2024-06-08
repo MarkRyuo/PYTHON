@@ -25,3 +25,5 @@ person = [
 ]
 
 def Loopofperson() ;
+    
+    for items in person :
