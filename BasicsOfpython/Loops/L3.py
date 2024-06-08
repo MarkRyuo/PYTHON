@@ -30,11 +30,11 @@ def Loopofperson() :
         print(items, person[items])
 
 
-Loopofperson()
+# Loopofperson()
 
 
 carbon = "Hi"
 
 for i in range(1, 4) :
-    carbon[i] 
+    i[carbon]
 print(carbon)
