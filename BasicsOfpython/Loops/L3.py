@@ -41,4 +41,4 @@ print(carbon)
 
 # * Output : 37 
 
-# * Explanation 
+# * Explanation : 37 because the first is i is 1, 31 + 1 = 32 then the next is 32 + 2 = 34, next is 34 + 3 = 37 
