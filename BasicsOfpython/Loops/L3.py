@@ -9,4 +9,4 @@
 
 person = {'name': 'Alice', 'age': 25}
 for key in person:
-    print(key)
+    print(key, person[key])
