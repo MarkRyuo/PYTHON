@@ -13,8 +13,9 @@
 
 # * DICT 
 
-person = {'name': 'Alice', 'age': 25}
-for items in person:
-    print(items, person[items])
+# person = {'name': 'Alice', 'age': 25}
+# for items in person:
+#     print(items, person[items])
+
 
 
