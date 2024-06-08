@@ -39,6 +39,6 @@ for i in range(1, 4) :
     carbon += i 
 print(carbon)
 
-
+# * Output : 37 
 
 # * Explanation 
