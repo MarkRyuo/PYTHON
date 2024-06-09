@@ -46,3 +46,9 @@ for i in range(1, 4) :
 
 
 # * protect the data 
+
+
+data = {
+    "name" : "Niyari",
+    
+}
