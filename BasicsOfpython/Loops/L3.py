@@ -56,11 +56,11 @@ data = {
 
 def Log_in() :
 
-    username = input("Enter your name: ")
+    username = input("Enter your name: ") # * Enter username
 
     def Items() :
 
-        for items in data :
+        for items in data : #
             data[items]
     
     items = Items() 
@@ -72,3 +72,4 @@ def Log_in() :
 
 
 Log_in()
+
