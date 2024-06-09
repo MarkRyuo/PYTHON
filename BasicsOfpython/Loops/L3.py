@@ -60,3 +60,4 @@ def Log_in() :
 
     for items in data :
         data[items]
+    print(data)
