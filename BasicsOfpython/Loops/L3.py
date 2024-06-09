@@ -86,11 +86,7 @@ emptylist = []
 
 for keys in list_of_names :
     emptylist[keys]
-
-    
-if keys == "Jian" : 
-    break
-else :
         
+
 
 
