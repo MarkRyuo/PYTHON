@@ -58,10 +58,11 @@ def Log_in() :
 
     username = input("Enter your name: ")
 
-    def Items 
-    for items in data :
-        data[items]
-    else :
-        print(
+    def Items() :
+
+        for items in data :
+            data[items]
+        
+    
 
 Log_in()
