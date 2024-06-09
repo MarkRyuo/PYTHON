@@ -58,9 +58,9 @@ def Log_in() :
 
     username = input("Enter your name: ") # * Enter username
 
-    def Items() :
+    def Items() : # * Create Nested Function
 
-        for items in data : #
+        for items in data : # * loop for data in 
             data[items]
     
     items = Items() 
