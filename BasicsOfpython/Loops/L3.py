@@ -75,4 +75,4 @@ def Log_in() :
 
 
 for items in data : 
-    print(items)
+    print(data[items])
