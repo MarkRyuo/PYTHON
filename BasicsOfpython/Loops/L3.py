@@ -52,3 +52,7 @@ data = {
     "name" : "Niyari",
     "age" : 19
 }
+
+
+def Log_in() :
+
