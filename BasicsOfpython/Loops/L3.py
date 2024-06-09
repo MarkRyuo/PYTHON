@@ -86,6 +86,7 @@ emptylist = []
 
 for keys in list_of_names :
     emptylist.append(keys)
+print(emptylist)
         
 
 
