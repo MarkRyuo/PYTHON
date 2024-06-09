@@ -65,7 +65,7 @@ def Log_in() :
     
     items = Items() 
 
-    if items == username :
+    if username == items :
         print("Hello")
     else :
         print("bye")
@@ -88,6 +88,8 @@ for keys in list_of_names :
     emptylist.append(keys)
 print(emptylist)
         
+
+
 
 
 
