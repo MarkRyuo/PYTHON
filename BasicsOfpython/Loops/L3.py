@@ -82,8 +82,10 @@ list_of_names = [
     "Samantha"
 ]
 
+emptylist = []
+
 for keys in list_of_names :
-    
+    print    
 
     
 if keys == "Jian" : 
