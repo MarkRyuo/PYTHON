@@ -96,7 +96,7 @@ def Log_in() :
 
     username = input("Enter your name: ") # * Enter username
 
-    if username == data.keys :
+    if username == data["name"] :
         print("Hello")
     else :
         print("bye")
