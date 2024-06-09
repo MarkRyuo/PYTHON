@@ -58,4 +58,5 @@ def Log_in() :
 
     username = input("Enter your name: ")
 
-    for 
+    for items in data :
+        data[items]
