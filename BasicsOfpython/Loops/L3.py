@@ -36,7 +36,8 @@ def Loopofperson() :
 carbon = 31
 
 for i in range(1, 4) :
-    carbon += i 
+    carbon += i
+    pass  
 # print(carbon)
 
 # * Output : 37 
