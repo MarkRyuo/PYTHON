@@ -60,7 +60,7 @@ def Log_in() :
 
     def Items() : # * Create Nested Function name Items 
 
-        for items in data : # * loop for data in 
+        for items in data : # * loop the 'data' 
             data[items]
     
     items = Items() 
