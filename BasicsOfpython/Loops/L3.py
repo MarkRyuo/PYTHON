@@ -85,7 +85,7 @@ list_of_names = [
 emptylist = []
 
 for keys in list_of_names :
-    emptylist += list_of_names[keys] 
+     
 print(emptylist)
         
 
