@@ -64,6 +64,8 @@ def Log_in() :
             data[items]
         
     
-    items = items()
+    items = Items() 
+
+
 
 Log_in()
