@@ -84,4 +84,4 @@ list_of_names = [
 
 for keys in list_of_names :
 
-    print(keys) 
+    print(list_of_names[keys]) 
