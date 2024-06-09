@@ -83,5 +83,6 @@ list_of_names = [
 ]
 
 for keys in list_of_names :
+    
+    if keys == "Jian" :
 
-    print(list_of_names[keys]) 
