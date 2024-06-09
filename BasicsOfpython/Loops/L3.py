@@ -66,6 +66,8 @@ def Log_in() :
     
     items = Items() 
 
+    if items == username :
+        print("Hello")
 
 
 Log_in()
