@@ -74,5 +74,10 @@ def Log_in() :
 # Log_in()
 
 
-for items in data : 
-    print(data[items])
+list_of_names = [
+    "Riyuo",
+    "Niyari",
+    "Jian",
+    "Sopheya",
+    ""
+]
