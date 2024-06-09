@@ -84,5 +84,7 @@ list_of_names = [
 
 for keys in list_of_names :
     
-    if keys == "Jian" :
+    if keys == "Jian" : 
+        break
+
 
