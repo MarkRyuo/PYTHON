@@ -82,4 +82,6 @@ list_of_names = [
     "Samantha"
 ]
 
-for keys in lis 
+for keys in list_of_names :
+
+    print(keys) 
