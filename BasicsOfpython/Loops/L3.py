@@ -102,3 +102,5 @@ def Log_in() :
         print("Hello")
     else :
         print("bye")
+
+Log_in()
